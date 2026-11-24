@@ -1,0 +1,639 @@
+{
+  "results": [
+    {
+      "text": "NUTRITIONALINTO",
+      "confidence": 0.997951865196228,
+      "language": "en",
+      "bbox": [
+        739.0,
+        10.0,
+        879.0,
+        34.0
+      ]
+    },
+    {
+      "text": "ients",
+      "confidence": 0.830559253692627,
+      "language": "en",
+      "bbox": [
+        0.0,
+        32.0,
+        30.0,
+        61.0
+      ]
+    },
+    {
+      "text": "Typical values",
+      "confidence": 0.9995608925819397,
+      "language": "en",
+      "bbox": [
+        694.0,
+        56.0,
+        778.0,
+        77.0
+      ]
+    },
+    {
+      "text": "Per",
+      "confidence": 0.9995399117469788,
+      "language": "en",
+      "bbox": [
+        845.0,
+        43.0,
+        868.0,
+        65.0
+      ]
+    },
+    {
+      "text": "rogenated fats",
+      "confidence": 0.96513831615448,
+      "language": "en",
+      "bbox": [
+        0.0,
+        57.0,
+        75.0,
+        89.0
+      ]
+    },
+    {
+      "text": "100g",
+      "confidence": 0.9995969533920288,
+      "language": "en",
+      "bbox": [
+        844.0,
+        64.0,
+        871.0,
+        86.0
+      ]
+    },
+    {
+      "text": "ervatives",
+      "confidence": 0.9719975590705872,
+      "language": "en",
+      "bbox": [
+        0.0,
+        88.0,
+        47.0,
+        114.0
+      ]
+    },
+    {
+      "text": "Energy",
+      "confidence": 0.9995455145835876,
+      "language": "en",
+      "bbox": [
+        692.0,
+        92.0,
+        742.0,
+        119.0
+      ]
+    },
+    {
+      "text": "kJ",
+      "confidence": 0.6972154378890991,
+      "language": "en",
+      "bbox": [
+        813.0,
+        95.0,
+        830.0,
+        113.0
+      ]
+    },
+    {
+      "text": "rings",
+      "confidence": 0.9951854944229126,
+      "language": "en",
+      "bbox": [
+        0.0,
+        117.0,
+        28.0,
+        143.0
+      ]
+    },
+    {
+      "text": "kcal",
+      "confidence": 0.9459601044654846,
+      "language": "en",
+      "bbox": [
+        800.0,
+        111.0,
+        832.0,
+        135.0
+      ]
+    },
+    {
+      "text": "ied by",
+      "confidence": 0.9669160842895508,
+      "language": "en",
+      "bbox": [
+        0.0,
+        147.0,
+        36.0,
+        176.0
+      ]
+    },
+    {
+      "text": "SGS",
+      "confidence": 0.9993777871131897,
+      "language": "en",
+      "bbox": [
+        57.0,
+        148.0,
+        98.0,
+        175.0
+      ]
+    },
+    {
+      "text": "nutella",
+      "confidence": 0.9981040358543396,
+      "language": "en",
+      "bbox": [
+        298.0,
+        139.0,
+        439.0,
+        195.0
+      ]
+    },
+    {
+      "text": "Fat",
+      "confidence": 0.9928018450737,
+      "language": "en",
+      "bbox": [
+        694.0,
+        140.0,
+        720.0,
+        161.0
+      ]
+    },
+    {
+      "text": "of which Saturates g",
+      "confidence": 0.9954556226730347,
+      "language": "en",
+      "bbox": [
+        697.0,
+        156.0,
+        832.0,
+        182.0
+      ]
+    },
+    {
+      "text": "m/nutella",
+      "confidence": 0.9372071027755737,
+      "language": "en",
+      "bbox": [
+        0.0,
+        177.0,
+        38.0,
+        199.0
+      ]
+    },
+    {
+      "text": "Carbohydrates",
+      "confidence": 0.9995823502540588,
+      "language": "en",
+      "bbox": [
+        696.0,
+        186.0,
+        785.0,
+        204.0
+      ]
+    },
+    {
+      "text": "of which Sugars",
+      "confidence": 0.9970945715904236,
+      "language": "en",
+      "bbox": [
+        699.0,
+        205.0,
+        804.0,
+        226.0
+      ]
+    },
+    {
+      "text": "Protein",
+      "confidence": 0.9996566772460938,
+      "language": "en",
+      "bbox": [
+        693.0,
+        229.0,
+        745.0,
+        254.0
+      ]
+    },
+    {
+      "text": "Salt",
+      "confidence": 0.9756840467453003,
+      "language": "en",
+      "bbox": [
+        692.0,
+        256.0,
+        726.0,
+        280.0
+      ]
+    },
+    {
+      "text": "re commited to a",
+      "confidence": 0.9960071444511414,
+      "language": "en",
+      "bbox": [
+        0.0,
+        289.0,
+        73.0,
+        311.0
+      ]
+    },
+    {
+      "text": "ble sourcing of our",
+      "confidence": 0.9397602081298828,
+      "language": "en",
+      "bbox": [
+        0.0,
+        308.0,
+        86.0,
+        332.0
+      ]
+    },
+    {
+      "text": "ents protecting the",
+      "confidence": 0.9814888834953308,
+      "language": "en",
+      "bbox": [
+        0.0,
+        328.0,
+        84.0,
+        352.0
+      ]
+    },
+    {
+      "text": "15g portion≈ 1 teaspoon",
+      "confidence": 0.9647088050842285,
+      "language": "en",
+      "bbox": [
+        701.0,
+        315.0,
+        848.0,
+        341.0
+      ]
+    },
+    {
+      "text": "mentand improving",
+      "confidence": 0.9849998354911804,
+      "language": "en",
+      "bbox": [
+        0.0,
+        348.0,
+        86.0,
+        373.0
+      ]
+    },
+    {
+      "text": "heir communities",
+      "confidence": 0.9925453066825867,
+      "language": "en",
+      "bbox": [
+        0.0,
+        387.0,
+        75.0,
+        412.0
+      ]
+    },
+    {
+      "text": "ffarmers",
+      "confidence": 0.9677876234054565,
+      "language": "en",
+      "bbox": [
+        35.0,
+        373.0,
+        80.0,
+        391.0
+      ]
+    },
+    {
+      "text": "Ingredients: Sugar, Palm Oil, HAZELNUTS (13%), Skimmed MILK",
+      "confidence": 0.9846444725990295,
+      "language": "en",
+      "bbox": [
+        168.0,
+        369.0,
+        645.0,
+        399.0
+      ]
+    },
+    {
+      "text": "ad more on our",
+      "confidence": 0.9896030426025391,
+      "language": "en",
+      "bbox": [
+        0.0,
+        413.0,
+        66.0,
+        438.0
+      ]
+    },
+    {
+      "text": "Powder (8.7%), Fat-Reduced Cocoa (7.4%), Emulsifier: Lecithins",
+      "confidence": 0.9823096990585327,
+      "language": "en",
+      "bbox": [
+        168.0,
+        393.0,
+        645.0,
+        422.0
+      ]
+    },
+    {
+      "text": "KEEP AT ROOM TEMPERA",
+      "confidence": 0.9390383958816528,
+      "language": "en",
+      "bbox": [
+        776.0,
+        406.0,
+        884.0,
+        431.0
+      ]
+    },
+    {
+      "text": "ions &partners",
+      "confidence": 0.9165930151939392,
+      "language": "en",
+      "bbox": [
+        0.0,
+        433.0,
+        69.0,
+        460.0
+      ]
+    },
+    {
+      "text": "SOYA), Vanillin. Guten free.",
+      "confidence": 0.8436338305473328,
+      "language": "en",
+      "bbox": [
+        170.0,
+        420.0,
+        359.0,
+        444.0
+      ]
+    },
+    {
+      "text": "拿",
+      "confidence": 0.969651997089386,
+      "language": "en",
+      "bbox": [
+        734.0,
+        414.0,
+        755.0,
+        442.0
+      ]
+    },
+    {
+      "text": "DO NOT STORE I THE FR",
+      "confidence": 0.9276076555252075,
+      "language": "en",
+      "bbox": [
+        775.0,
+        428.0,
+        885.0,
+        457.0
+      ]
+    },
+    {
+      "text": ".com/sustainability",
+      "confidence": 0.9900556802749634,
+      "language": "en",
+      "bbox": [
+        0.0,
+        454.0,
+        88.0,
+        480.0
+      ]
+    },
+    {
+      "text": "SUITABLE FOR VEGETARIANS.",
+      "confidence": 0.9971218109130859,
+      "language": "en",
+      "bbox": [
+        169.0,
+        451.0,
+        364.0,
+        474.0
+      ]
+    },
+    {
+      "text": "BEST BEFORE: SEE LID",
+      "confidence": 0.9658010601997375,
+      "language": "en",
+      "bbox": [
+        169.0,
+        482.0,
+        290.0,
+        502.0
+      ]
+    },
+    {
+      "text": "(ROI) Ferrero, Kinsale Road, Cork.",
+      "confidence": 0.9317495822906494,
+      "language": "en",
+      "bbox": [
+        171.0,
+        528.0,
+        353.0,
+        548.0
+      ]
+    },
+    {
+      "text": "(UK) Ferrero, 889 Greenford Road, Greenford, UB6 OHE.",
+      "confidence": 0.9663010835647583,
+      "language": "en",
+      "bbox": [
+        170.0,
+        507.0,
+        471.0,
+        529.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        730.0,
+        444.0,
+        764.0,
+        468.0
+      ],
+      "text": "18℃",
+      "confidence": 0.9604544639587402,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        728.0,
+        390.0,
+        764.0,
+        415.0
+      ],
+      "text": "24°",
+      "confidence": 0.9326774477958679,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        693.0,
+        291.0,
+        885.0,
+        319.0
+      ],
+      "text": "Reference inake oaaveraged",
+      "confidence": 0.6763961315155029,
+      "reason": "script mismatch for model zh"
+    },
+    {
+      "bbox": [
+        820.0,
+        258.0,
+        833.0,
+        275.0
+      ],
+      "text": "q",
+      "confidence": 0.992280900478363,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        840.0,
+        253.0,
+        875.0,
+        277.0
+      ],
+      "text": "0.107",
+      "confidence": 0.9999777674674988,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        819.0,
+        234.0,
+        832.0,
+        250.0
+      ],
+      "text": "g",
+      "confidence": 0.809022843837738,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        846.0,
+        228.0,
+        870.0,
+        251.0
+      ],
+      "text": "6.3",
+      "confidence": 0.9999363422393799,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        820.0,
+        210.0,
+        829.0,
+        222.0
+      ],
+      "text": "0",
+      "confidence": 0.7669110298156738,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        844.0,
+        201.0,
+        872.0,
+        226.0
+      ],
+      "text": "56.3",
+      "confidence": 0.9998977780342102,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        821.0,
+        190.0,
+        829.0,
+        203.0
+      ],
+      "text": "0",
+      "confidence": 0.842212975025177,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        843.0,
+        182.0,
+        873.0,
+        206.0
+      ],
+      "text": "57.5",
+      "confidence": 0.9999247789382935,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        845.0,
+        156.0,
+        873.0,
+        180.0
+      ],
+      "text": "10.6",
+      "confidence": 0.9999557733535767,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        818.0,
+        143.0,
+        830.0,
+        160.0
+      ],
+      "text": "g",
+      "confidence": 0.9431280493736267,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        844.0,
+        137.0,
+        872.0,
+        162.0
+      ],
+      "text": "30.9",
+      "confidence": 0.9999610185623169,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        845.0,
+        111.0,
+        870.0,
+        134.0
+      ],
+      "text": "539",
+      "confidence": 0.999963104724884,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        843.0,
+        91.0,
+        872.0,
+        115.0
+      ],
+      "text": "2252",
+      "confidence": 0.9999959468841553,
+      "reason": "no readable word (OCR garbage)"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "three_pass",
+    "blocks_detected": 57,
+    "blocks_kept": 41,
+    "retry": {}
+  }
+}

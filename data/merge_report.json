@@ -1,0 +1,798 @@
+{
+  "removed": [
+    {
+      "id": ">=100",
+      "name": "80 entries from the previous draft import",
+      "why": "replaced by the validated draft"
+    }
+  ],
+  "status_overrides": [],
+  "retired": [
+    {
+      "id": 30,
+      "name": "emulsifiers",
+      "why": "emulsifiers is a function word (function_words.json fw6), not an ingredient; E471 -> 109, E322 -> 113, E400 -> 202"
+    }
+  ],
+  "name_fixes": [
+    {
+      "id": 2,
+      "lang": "zh",
+      "from": "胭脂红",
+      "to": "胭脂虫红"
+    },
+    {
+      "id": 31,
+      "lang": "en",
+      "from": "lecithin",
+      "to": "soy lecithin"
+    },
+    {
+      "id": 31,
+      "lang": "fr",
+      "from": "lécithine",
+      "to": "lécithine de soja"
+    },
+    {
+      "id": 31,
+      "lang": "ar",
+      "from": "ليسيثين",
+      "to": "ليسيثين الصويا"
+    },
+    {
+      "id": 31,
+      "lang": "zh",
+      "from": "卵磷脂",
+      "to": "大豆卵磷脂"
+    }
+  ],
+  "alias_moves": [
+    {
+      "alias": "E471",
+      "removed_from": [
+        32
+      ],
+      "to": 109
+    },
+    {
+      "alias": "E322",
+      "removed_from": [
+        31
+      ],
+      "to": 113
+    },
+    {
+      "alias": "lecithin",
+      "removed_from": [
+        31
+      ],
+      "to": 113
+    },
+    {
+      "alias": "lécithine",
+      "removed_from": [
+        31
+      ],
+      "to": 113
+    },
+    {
+      "alias": "ليسيثين",
+      "removed_from": [],
+      "to": 113
+    },
+    {
+      "alias": "卵磷脂",
+      "removed_from": [],
+      "to": 113
+    }
+  ],
+  "resolved": [
+    {
+      "existing_id": 1,
+      "existing_name": "gelatin",
+      "draft_id": 108,
+      "draft_name": "gelatin",
+      "matched_alias": "gelatine alimentaire",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 2,
+      "existing_name": "carmine",
+      "draft_id": 117,
+      "draft_name": "carmine / cochineal (E120)",
+      "matched_alias": "carmin cochenille e120",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 11,
+      "existing_name": "shellac",
+      "draft_id": 118,
+      "draft_name": "shellac (E904)",
+      "matched_alias": "confectioner s glaze",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 40,
+      "existing_name": "collagen",
+      "draft_id": 130,
+      "draft_name": "collagen",
+      "matched_alias": "collagene",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 23,
+      "existing_name": "vanilla",
+      "draft_id": 131,
+      "draft_name": "vanilla extract (alcohol-based)",
+      "matched_alias": "vanilla extract alcohol based",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 4,
+      "existing_name": "ethyl alcohol",
+      "draft_id": 135,
+      "draft_name": "alcohol / ethanol (as ingredient or solvent)",
+      "matched_alias": "alcohol ethanol as ingredient or solvent",
+      "aliases_added": [],
+      "also_overlapped_ids": [
+        36
+      ]
+    },
+    {
+      "existing_id": 19,
+      "existing_name": "maltodextrin",
+      "draft_id": 141,
+      "draft_name": "maltodextrin",
+      "matched_alias": "maltodextrine",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 21,
+      "existing_name": "starch",
+      "draft_id": 157,
+      "draft_name": "modified starch (E1404-E1451)",
+      "matched_alias": "modified starch e1404 e1451",
+      "aliases_added": []
+    }
+  ],
+  "merged": [
+    {
+      "existing_id": 7,
+      "existing_name": "pork",
+      "draft_id": 101,
+      "draft_name": "pork",
+      "matched_alias": "viande de porc",
+      "aliases_added": [],
+      "also_overlapped_ids": [
+        8
+      ]
+    },
+    {
+      "existing_id": 8,
+      "existing_name": "lard",
+      "draft_id": 102,
+      "draft_name": "lard / pork fat",
+      "matched_alias": "graisse de porc",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 5,
+      "existing_name": "wine",
+      "draft_id": 105,
+      "draft_name": "wine (incl. cooking wine, rice wine, mirin)",
+      "matched_alias": "wine incl cooking wine rice wine mirin",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 3,
+      "existing_name": "glycerin",
+      "draft_id": 111,
+      "draft_name": "glycerol / glycerin (E422)",
+      "matched_alias": "glycerol glycerin e422",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 12,
+      "existing_name": "L-cysteine",
+      "draft_id": 112,
+      "draft_name": "L-cysteine (E920, E921)",
+      "matched_alias": "l cysteine e920 e921",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 6,
+      "existing_name": "animal fat",
+      "draft_id": 119,
+      "draft_name": "animal fat / tallow",
+      "matched_alias": "graisse animale suif",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 14,
+      "existing_name": "rennet",
+      "draft_id": 128,
+      "draft_name": "rennet",
+      "matched_alias": "presure animale",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 10,
+      "existing_name": "enzymes",
+      "draft_id": 129,
+      "draft_name": "enzymes (origin not stated)",
+      "matched_alias": "enzymes origin not stated",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 22,
+      "existing_name": "salt",
+      "draft_id": 139,
+      "draft_name": "salt",
+      "matched_alias": "sel de l himalaya",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 29,
+      "existing_name": "vegetable fat",
+      "draft_id": 169,
+      "draft_name": "vegetable fat / vegetable oil blends",
+      "matched_alias": "vegetable fat vegetable oil blends",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 18,
+      "existing_name": "butter",
+      "draft_id": 178,
+      "draft_name": "cream",
+      "matched_alias": "creme fraiche",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 18,
+      "existing_name": "butter",
+      "draft_id": 179,
+      "draft_name": "butter",
+      "matched_alias": "زبدة الحليب",
+      "aliases_added": []
+    },
+    {
+      "existing_id": 37,
+      "existing_name": "yeast",
+      "draft_id": 193,
+      "draft_name": "yeast",
+      "matched_alias": "levure boulangere",
+      "aliases_added": []
+    }
+  ],
+  "added": [
+    {
+      "id": 103,
+      "name": "pork gelatin",
+      "status": "incompatible"
+    },
+    {
+      "id": 104,
+      "name": "blood and blood products",
+      "status": "incompatible"
+    },
+    {
+      "id": 106,
+      "name": "beer",
+      "status": "incompatible"
+    },
+    {
+      "id": 107,
+      "name": "spirits (rum, whisky, vodka, brandy, cognac)",
+      "status": "incompatible"
+    },
+    {
+      "id": 110,
+      "name": "fatty acids, stearates and polysorbates (E430-E436, E470a/b, E570, E572)",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 113,
+      "name": "lecithin (E322, origin not stated)",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 114,
+      "name": "nucleotide flavour enhancers (E626-E635)",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 115,
+      "name": "glycine (E640)",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 116,
+      "name": "edible bone phosphate (E542)",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 120,
+      "name": "ham, bacon and cured pork products",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 121,
+      "name": "sausage, salami, chorizo, pepperoni",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 122,
+      "name": "beef and veal",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 123,
+      "name": "lamb and mutton",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 124,
+      "name": "poultry (chicken, turkey, duck)",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 125,
+      "name": "meat, meat extract and bouillon",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 126,
+      "name": "shellfish and molluscs",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 127,
+      "name": "cheese",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 132,
+      "name": "soy sauce",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 133,
+      "name": "wine vinegar and balsamic vinegar",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 134,
+      "name": "tartaric acid, tartrates, cream of tartar (E334-E337)",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 136,
+      "name": "hydrolysed protein (source not stated)",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 137,
+      "name": "vitamin D3 (cholecalciferol)",
+      "status": "depends_on_origin"
+    },
+    {
+      "id": 138,
+      "name": "water",
+      "status": "compatible"
+    },
+    {
+      "id": 140,
+      "name": "glucose syrup, dextrose, fructose",
+      "status": "compatible"
+    },
+    {
+      "id": 142,
+      "name": "caramelised sugar / caramel syrup",
+      "status": "compatible"
+    },
+    {
+      "id": 143,
+      "name": "lactose",
+      "status": "compatible"
+    },
+    {
+      "id": 144,
+      "name": "honey",
+      "status": "compatible"
+    },
+    {
+      "id": 145,
+      "name": "syrups (maple, agave, date, molasses)",
+      "status": "compatible"
+    },
+    {
+      "id": 146,
+      "name": "flour (wheat and other)",
+      "status": "compatible"
+    },
+    {
+      "id": 147,
+      "name": "rice flour",
+      "status": "compatible"
+    },
+    {
+      "id": 148,
+      "name": "corn / maize flour",
+      "status": "compatible"
+    },
+    {
+      "id": 149,
+      "name": "quinoa",
+      "status": "compatible"
+    },
+    {
+      "id": 150,
+      "name": "oats",
+      "status": "compatible"
+    },
+    {
+      "id": 151,
+      "name": "malt and malt extract",
+      "status": "compatible"
+    },
+    {
+      "id": 152,
+      "name": "cereals and grains",
+      "status": "compatible"
+    },
+    {
+      "id": 153,
+      "name": "potato starch",
+      "status": "compatible"
+    },
+    {
+      "id": 154,
+      "name": "corn / maize starch",
+      "status": "compatible"
+    },
+    {
+      "id": 155,
+      "name": "sweet potato starch",
+      "status": "compatible"
+    },
+    {
+      "id": 156,
+      "name": "tapioca / cassava starch",
+      "status": "compatible"
+    },
+    {
+      "id": 158,
+      "name": "taro",
+      "status": "compatible"
+    },
+    {
+      "id": 159,
+      "name": "sunflower oil",
+      "status": "compatible"
+    },
+    {
+      "id": 160,
+      "name": "rapeseed / canola oil",
+      "status": "compatible"
+    },
+    {
+      "id": 161,
+      "name": "olive oil",
+      "status": "compatible"
+    },
+    {
+      "id": 162,
+      "name": "soybean oil",
+      "status": "compatible"
+    },
+    {
+      "id": 163,
+      "name": "coconut and coconut oil",
+      "status": "compatible"
+    },
+    {
+      "id": 164,
+      "name": "shea butter / oil",
+      "status": "compatible"
+    },
+    {
+      "id": 165,
+      "name": "safflower oil",
+      "status": "compatible"
+    },
+    {
+      "id": 166,
+      "name": "sesame oil",
+      "status": "compatible"
+    },
+    {
+      "id": 167,
+      "name": "peanut oil",
+      "status": "compatible"
+    },
+    {
+      "id": 168,
+      "name": "corn oil",
+      "status": "compatible"
+    },
+    {
+      "id": 170,
+      "name": "hydrogenated vegetable oils",
+      "status": "compatible"
+    },
+    {
+      "id": 171,
+      "name": "cocoa butter",
+      "status": "compatible"
+    },
+    {
+      "id": 172,
+      "name": "cocoa mass / cocoa liquor",
+      "status": "compatible"
+    },
+    {
+      "id": 173,
+      "name": "cocoa powder",
+      "status": "compatible"
+    },
+    {
+      "id": 174,
+      "name": "cocoa nibs / beans",
+      "status": "compatible"
+    },
+    {
+      "id": 175,
+      "name": "chocolate",
+      "status": "compatible"
+    },
+    {
+      "id": 176,
+      "name": "milk",
+      "status": "compatible"
+    },
+    {
+      "id": 177,
+      "name": "milk powder (whole, skimmed)",
+      "status": "compatible"
+    },
+    {
+      "id": 180,
+      "name": "butteroil / anhydrous milk fat",
+      "status": "compatible"
+    },
+    {
+      "id": 181,
+      "name": "milk proteins",
+      "status": "compatible"
+    },
+    {
+      "id": 182,
+      "name": "yoghurt / fermented milk",
+      "status": "compatible"
+    },
+    {
+      "id": 183,
+      "name": "nuts",
+      "status": "compatible"
+    },
+    {
+      "id": 184,
+      "name": "seeds",
+      "status": "compatible"
+    },
+    {
+      "id": 185,
+      "name": "fruit and fruit purées",
+      "status": "compatible"
+    },
+    {
+      "id": 186,
+      "name": "citrus and essential oils (lemon oil)",
+      "status": "compatible"
+    },
+    {
+      "id": 187,
+      "name": "vegetables and vegetable powders",
+      "status": "compatible"
+    },
+    {
+      "id": 188,
+      "name": "spices and herbs",
+      "status": "compatible"
+    },
+    {
+      "id": 189,
+      "name": "coffee",
+      "status": "compatible"
+    },
+    {
+      "id": 190,
+      "name": "tea",
+      "status": "compatible"
+    },
+    {
+      "id": 191,
+      "name": "legumes and soy",
+      "status": "compatible"
+    },
+    {
+      "id": 192,
+      "name": "plant proteins and gluten",
+      "status": "compatible"
+    },
+    {
+      "id": 194,
+      "name": "yeast extract",
+      "status": "compatible"
+    },
+    {
+      "id": 195,
+      "name": "vanilla pods / seeds",
+      "status": "compatible"
+    },
+    {
+      "id": 196,
+      "name": "baking soda and baking powder",
+      "status": "compatible"
+    },
+    {
+      "id": 197,
+      "name": "vinegar (non-wine)",
+      "status": "compatible"
+    },
+    {
+      "id": 198,
+      "name": "fish and fish oil",
+      "status": "compatible"
+    },
+    {
+      "id": 200,
+      "name": "acids, acidity regulators, phosphates and mineral salts",
+      "status": "compatible"
+    },
+    {
+      "id": 202,
+      "name": "thickeners, gelling agents and gums",
+      "status": "compatible"
+    },
+    {
+      "id": 203,
+      "name": "sweeteners and polyols",
+      "status": "compatible"
+    },
+    {
+      "id": 205,
+      "name": "glutamates",
+      "status": "compatible"
+    },
+    {
+      "id": 206,
+      "name": "waxes (beeswax, candelilla, carnauba)",
+      "status": "compatible"
+    },
+    {
+      "id": 207,
+      "name": "vitamins and minerals (general)",
+      "status": "compatible"
+    }
+  ],
+  "alias_overlaps": [
+    {
+      "draft_id": 109,
+      "draft_name": "fatty-acid emulsifiers: glycerides and esters (E471, E472a-f, E473-E476, E479b, E481-E483, E304)",
+      "draft_status": "depends_on_origin",
+      "overlapping_aliases": [
+        {
+          "alias": "monoglycerides",
+          "existing_ids": [
+            32
+          ]
+        },
+        {
+          "alias": "diglycerides",
+          "existing_ids": [
+            33
+          ]
+        }
+      ],
+      "action": "added; overlapping aliases left to the existing entries"
+    },
+    {
+      "draft_id": 199,
+      "draft_name": "colours (plant, mineral, synthetic)",
+      "draft_status": "compatible",
+      "overlapping_aliases": [
+        {
+          "alias": "e100",
+          "existing_ids": [
+            35
+          ]
+        }
+      ],
+      "action": "added; overlapping aliases left to the existing entries"
+    },
+    {
+      "draft_id": 201,
+      "draft_name": "preservatives (sorbates, benzoates, sulphites, nitrites, propionates)",
+      "draft_status": "compatible",
+      "overlapping_aliases": [
+        {
+          "alias": "propionate de calcium",
+          "existing_ids": [
+            38
+          ]
+        },
+        {
+          "alias": "بروبيونات الكالسيوم",
+          "existing_ids": [
+            38
+          ]
+        },
+        {
+          "alias": "calcium propionate",
+          "existing_ids": [
+            38
+          ]
+        },
+        {
+          "alias": "e282",
+          "existing_ids": [
+            38
+          ]
+        },
+        {
+          "alias": "e200",
+          "existing_ids": [
+            35
+          ]
+        },
+        {
+          "alias": "丙酸钙",
+          "existing_ids": [
+            38
+          ]
+        }
+      ],
+      "action": "added; overlapping aliases left to the existing entries"
+    },
+    {
+      "draft_id": 204,
+      "draft_name": "antioxidants (ascorbic acid, tocopherols, rosemary)",
+      "draft_status": "compatible",
+      "overlapping_aliases": [
+        {
+          "alias": "mixed tocopherols",
+          "existing_ids": [
+            46
+          ]
+        },
+        {
+          "alias": "tocopherols",
+          "existing_ids": [
+            46
+          ]
+        },
+        {
+          "alias": "混合浓缩生育醇",
+          "existing_ids": [
+            46
+          ]
+        },
+        {
+          "alias": "混合濃縮生育醇",
+          "existing_ids": [
+            46
+          ]
+        },
+        {
+          "alias": "e306",
+          "existing_ids": [
+            46
+          ]
+        }
+      ],
+      "action": "added; overlapping aliases left to the existing entries"
+    }
+  ],
+  "conflicts": []
+}

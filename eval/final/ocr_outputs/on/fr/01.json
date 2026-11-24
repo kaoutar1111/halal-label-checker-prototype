@@ -1,0 +1,133 @@
+{
+  "results": [
+    {
+      "text": "FABRIQUÉ EN FRANCE",
+      "confidence": 0.9977013468742371,
+      "language": "fr",
+      "bbox": [
+        266.0,
+        622.0,
+        1222.0,
+        748.0
+      ]
+    },
+    {
+      "text": "Fqé UE",
+      "confidence": 0.6234714388847351,
+      "language": "fr",
+      "bbox": [
+        97.0,
+        1018.0,
+        1406.0,
+        1133.0
+      ]
+    },
+    {
+      "text": "Conoéshercnservnsommr4",
+      "confidence": 0.6936295032501221,
+      "language": "fr",
+      "bbox": [
+        106.0,
+        1105.0,
+        1405.0,
+        1199.0
+      ]
+    },
+    {
+      "text": "oisy-lerqarue",
+      "confidence": 0.602530300617218,
+      "language": "fr",
+      "bbox": [
+        105.0,
+        1246.0,
+        1400.0,
+        1343.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        0.0,
+        1308.0,
+        63.0,
+        1398.0
+      ],
+      "text": "8%",
+      "confidence": 0.8620598912239075,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        5.0,
+        1253.0,
+        60.0,
+        1320.0
+      ],
+      "text": "g",
+      "confidence": 0.8858876824378967,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        106.0,
+        1177.0,
+        1401.0,
+        1268.0
+      ],
+      "text": "",
+      "confidence": 0.5362770557403564,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        101.0,
+        955.0,
+        1400.0,
+        1036.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        95.0,
+        882.0,
+        1399.0,
+        972.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        90.0,
+        809.0,
+        1414.0,
+        903.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        98.0,
+        732.0,
+        1415.0,
+        831.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "language_first:fr",
+    "blocks_detected": 11,
+    "blocks_kept": 4,
+    "retry": {}
+  }
+}

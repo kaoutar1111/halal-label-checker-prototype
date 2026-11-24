@@ -1,0 +1,133 @@
+{
+  "results": [
+    {
+      "text": "Valce",
+      "confidence": 0.4005087912082672,
+      "language": "fr",
+      "bbox": [
+        842.0,
+        0.0,
+        1036.0,
+        89.0
+      ]
+    },
+    {
+      "text": "DeUTARDE",
+      "confidence": 0.8014082312583923,
+      "language": "fr",
+      "bbox": [
+        14.0,
+        82.0,
+        1542.0,
+        293.0
+      ]
+    },
+    {
+      "text": "0693200  an srta",
+      "confidence": 0.537783145904541,
+      "language": "fr",
+      "bbox": [
+        91.0,
+        703.0,
+        618.0,
+        850.0
+      ]
+    },
+    {
+      "text": "BAC",
+      "confidence": 0.9936358332633972,
+      "language": "fr",
+      "bbox": [
+        1316.0,
+        729.0,
+        1390.0,
+        791.0
+      ]
+    },
+    {
+      "text": "w.malle.co-Unilever France",
+      "confidence": 0.6917752623558044,
+      "language": "fr",
+      "bbox": [
+        144.0,
+        787.0,
+        526.0,
+        890.0
+      ]
+    },
+    {
+      "text": "COUVERCLE",
+      "confidence": 0.9982640743255615,
+      "language": "fr",
+      "bbox": [
+        1108.0,
+        770.0,
+        1300.0,
+        874.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        1329.0,
+        767.0,
+        1388.0,
+        864.0
+      ],
+      "text": "H",
+      "confidence": 0.11255557835102081,
+      "reason": "low confidence 0.11 < 0.6"
+    },
+    {
+      "bbox": [
+        90.0,
+        646.0,
+        706.0,
+        767.0
+      ],
+      "text": "vr.",
+      "confidence": 0.5226338505744934,
+      "reason": "low confidence 0.52 < 0.6"
+    },
+    {
+      "bbox": [
+        28.0,
+        239.0,
+        586.0,
+        342.0
+      ],
+      "text": "as",
+      "confidence": 0.429557740688324,
+      "reason": "low confidence 0.43 < 0.6"
+    },
+    {
+      "bbox": [
+        91.0,
+        703.0,
+        618.0,
+        850.0
+      ],
+      "text": "0693200  an srta",
+      "confidence": 0.537783145904541,
+      "reason": "low confidence 0.54 < 0.6"
+    },
+    {
+      "bbox": [
+        842.0,
+        0.0,
+        1036.0,
+        89.0
+      ],
+      "text": "Valce",
+      "confidence": 0.4005087912082672,
+      "reason": "low confidence 0.40 < 0.6"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "language_first:fr",
+    "blocks_detected": 9,
+    "blocks_kept": 6,
+    "retry": {}
+  }
+}

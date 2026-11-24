@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "text": "PESTO SAUCE WITH BASIL INGREDIENTSsunfower seed , basil %, cashew nut, Graa Padano O cheese",
+      "confidence": 0.7750515937805176,
+      "language": "en",
+      "bbox": [
+        58.0,
+        0.0,
+        1189.0,
+        51.0
+      ]
+    },
+    {
+      "text": "i  miecRoacesemi u vi",
+      "confidence": 0.5109462141990662,
+      "language": "en",
+      "bbox": [
+        60.0,
+        16.0,
+        1190.0,
+        74.0
+      ]
+    },
+    {
+      "text": "other tree nuts. For Australia imported by Barlla Australia Pty Ltd, 4 Annandale Street, Annandale, NSW 2038.",
+      "confidence": 0.9697783589363098,
+      "language": "en",
+      "bbox": [
+        60.0,
+        68.0,
+        1025.0,
+        113.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        61.0,
+        41.0,
+        1189.0,
+        96.0
+      ],
+      "text": "basil extrac, natural flavouri milgarlic, buttrmik powder (mil, acidity regulato lactic ai.ay epresen races of",
+      "confidence": 0.7509046196937561,
+      "reason": "script mismatch for model ar"
+    },
+    {
+      "bbox": [
+        60.0,
+        16.0,
+        1190.0,
+        74.0
+      ],
+      "text": "i  miecRoacesemi u vi",
+      "confidence": 0.5109462141990662,
+      "reason": "low confidence 0.51 < 0.6"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "three_pass",
+    "blocks_detected": 4,
+    "blocks_kept": 3,
+    "retry": {}
+  }
+}

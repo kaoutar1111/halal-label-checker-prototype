@@ -1,0 +1,33 @@
+# Core dependencies
+# st.camera_input is available in Streamlit 1.20+; verified locally with 1.67.0.
+streamlit>=1.28.0,<2.0
+
+# OCR Engines (at least one required)
+# Primary: PaddleOCR 3.x (verified working on Python 3.13)
+paddleocr==3.7.0
+paddlepaddle==3.3.1
+
+# Optional: torch (required by some OCR backends)
+torch>=2.0.0
+
+# Fallback: EasyOCR (install if PaddleOCR doesn't work)
+# easyocr>=1.7.0
+
+# Image processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Fuzzy matching
+rapidfuzz>=3.0.0
+
+# Storage
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Requirements:
+# - Python 3.11+ (tested: Python 3.13.7 on Windows)
+# - At least one OCR engine required
+# - torch may be needed for some PaddlePaddle operations

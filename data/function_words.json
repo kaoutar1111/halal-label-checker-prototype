@@ -1,0 +1,411 @@
+{
+  "behavior_note": "Function words introduce a list of substances. Do not report them as ingredients. Judge the substances that follow; if none is named, report 'À vérifier'.",
+  "groups": [
+    {
+      "id": "fw1",
+      "group": "acidifier",
+      "en": [
+        "acidifier",
+        "acidulant"
+      ],
+      "fr": [
+        "acidifiant"
+      ],
+      "ar": [
+        "مادة محمضة",
+        "منظم حموضة"
+      ],
+      "zh": [
+        "酸味剂",
+        "酸味劑",
+        "酸度調節劑",
+        "酸度调节剂"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw2",
+      "group": "acidity regulator",
+      "en": [
+        "acidity regulator",
+        "acidity regulators"
+      ],
+      "fr": [
+        "régulateur d'acidité",
+        "correcteur d'acidité"
+      ],
+      "ar": [
+        "منظم الحموضة"
+      ],
+      "zh": [
+        "酸度調節劑",
+        "酸度调节剂"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw3",
+      "group": "antioxidant",
+      "en": [
+        "antioxidant",
+        "antioxidants"
+      ],
+      "fr": [
+        "antioxydant",
+        "antioxydants"
+      ],
+      "ar": [
+        "مضاد الأكسدة",
+        "مضادات الأكسدة"
+      ],
+      "zh": [
+        "抗氧化剂",
+        "抗氧化劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw4",
+      "group": "colour",
+      "en": [
+        "colour",
+        "color",
+        "colouring",
+        "coloring"
+      ],
+      "fr": [
+        "colorant",
+        "colorants"
+      ],
+      "ar": [
+        "ملون",
+        "ملونات",
+        "صبغة"
+      ],
+      "zh": [
+        "色素",
+        "著色剂",
+        "著色劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw5",
+      "group": "preservative",
+      "en": [
+        "preservative",
+        "preservatives"
+      ],
+      "fr": [
+        "conservateur",
+        "conservateurs"
+      ],
+      "ar": [
+        "مادة حافظة",
+        "مواد حافظة",
+        "حافظ"
+      ],
+      "zh": [
+        "防腐剂",
+        "防腐劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw6",
+      "group": "emulsifier",
+      "en": [
+        "emulsifier",
+        "emulsifiers"
+      ],
+      "fr": [
+        "émulsifiant",
+        "émulsifiants"
+      ],
+      "ar": [
+        "مستحلب",
+        "مستحلبات"
+      ],
+      "zh": [
+        "乳化剂",
+        "乳化劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw7",
+      "group": "thickener",
+      "en": [
+        "thickener",
+        "thickeners"
+      ],
+      "fr": [
+        "épaississant",
+        "épaississants"
+      ],
+      "ar": [
+        "مثخن",
+        "مثخنات"
+      ],
+      "zh": [
+        "增稠剂",
+        "增稠劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw8",
+      "group": "gelling agent",
+      "en": [
+        "gelling agent"
+      ],
+      "fr": [
+        "gélifiant",
+        "gélifiants"
+      ],
+      "ar": [
+        "عامل تجليل",
+        "مادة هلامية"
+      ],
+      "zh": [
+        "凝胶剂",
+        "凝膠劑",
+        "胶凝剂",
+        "膠凝劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw9",
+      "group": "humectant",
+      "en": [
+        "humectant",
+        "humectants"
+      ],
+      "fr": [
+        "humectant",
+        "humectants"
+      ],
+      "ar": [
+        "مرطب",
+        "مادة مرطبة"
+      ],
+      "zh": [
+        "保湿剂",
+        "保濕劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw10",
+      "group": "flavour enhancer",
+      "en": [
+        "flavour enhancer",
+        "flavor enhancer"
+      ],
+      "fr": [
+        "exhausteur de goût"
+      ],
+      "ar": [
+        "معزز النكهة"
+      ],
+      "zh": [
+        "增味剂",
+        "增味劑",
+        "調味劑",
+        "调味剂"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw11",
+      "group": "stabiliser",
+      "en": [
+        "stabiliser",
+        "stabilizer"
+      ],
+      "fr": [
+        "stabilisant",
+        "stabilisants"
+      ],
+      "ar": [
+        "مثبت",
+        "مثبتات"
+      ],
+      "zh": [
+        "稳定剂",
+        "穩定劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw12",
+      "group": "sweetener",
+      "en": [
+        "sweetener",
+        "sweeteners"
+      ],
+      "fr": [
+        "édulcorant",
+        "édulcorants"
+      ],
+      "ar": [
+        "محلي",
+        "محليات"
+      ],
+      "zh": [
+        "甜味剂",
+        "甜味劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw13",
+      "group": "bulking agent",
+      "en": [
+        "bulking agent"
+      ],
+      "fr": [
+        "agent de charge"
+      ],
+      "ar": [
+        "عامل حجم"
+      ],
+      "zh": [
+        "填充剂",
+        "填充劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw14",
+      "group": "glazing agent",
+      "en": [
+        "glazing agent"
+      ],
+      "fr": [
+        "agent d'enrobage",
+        "agent de glaçage"
+      ],
+      "ar": [
+        "عامل تلميع"
+      ],
+      "zh": [
+        "上光剂",
+        "上光劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw15",
+      "group": "raising agent",
+      "en": [
+        "raising agent"
+      ],
+      "fr": [
+        "poudre à lever",
+        "agent levant"
+      ],
+      "ar": [
+        "عامل رفع",
+        "مسحوق رفع"
+      ],
+      "zh": [
+        "膨松剂",
+        "膨胀剂",
+        "膨脹劑",
+        "膨鬆劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw16",
+      "group": "anti-caking agent",
+      "en": [
+        "anti-caking agent"
+      ],
+      "fr": [
+        "anti-agglomérant",
+        "antiagglomérant"
+      ],
+      "ar": [
+        "مانع التكتل"
+      ],
+      "zh": [
+        "抗結劑",
+        "抗结剂"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw17",
+      "group": "flour treatment agent",
+      "en": [
+        "flour treatment agent"
+      ],
+      "fr": [
+        "agent de traitement de la farine"
+      ],
+      "ar": [
+        "محسن الدقيق"
+      ],
+      "zh": [
+        "面粉处理剂",
+        "麵粉處理劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw18",
+      "group": "firming agent",
+      "en": [
+        "firming agent"
+      ],
+      "fr": [
+        "agent de fermeté"
+      ],
+      "ar": [
+        "عامل تماسك"
+      ],
+      "zh": [
+        "固化剂",
+        "固化劑"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw19",
+      "group": "mineral salts",
+      "en": [
+        "mineral salts",
+        "mineral salt"
+      ],
+      "fr": [
+        "sels minéraux",
+        "sel minéral"
+      ],
+      "ar": [
+        "أملاح معدنية"
+      ],
+      "zh": [
+        "矿物盐",
+        "礦物鹽"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    },
+    {
+      "id": "fw20",
+      "group": "additives",
+      "en": [
+        "additives"
+      ],
+      "fr": [
+        "additifs"
+      ],
+      "zh": [
+        "食品添加剂"
+      ],
+      "behavior": "judge_following_substances_else_verify"
+    }
+  ]
+}

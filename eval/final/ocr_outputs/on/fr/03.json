@@ -1,0 +1,320 @@
+{
+  "results": [
+    {
+      "text": "DE CACAHU",
+      "confidence": 0.9720314741134644,
+      "language": "fr",
+      "bbox": [
+        275.0,
+        0.0,
+        559.0,
+        50.0
+      ]
+    },
+    {
+      "text": "Ingrédients:",
+      "confidence": 0.9970242977142334,
+      "language": "fr",
+      "bbox": [
+        116.0,
+        63.0,
+        386.0,
+        143.0
+      ]
+    },
+    {
+      "text": "ET",
+      "confidence": 0.9983254671096802,
+      "language": "fr",
+      "bbox": [
+        523.0,
+        86.0,
+        561.0,
+        135.0
+      ]
+    },
+    {
+      "text": "Cacahuètes des",
+      "confidence": 0.9817873239517212,
+      "language": "fr",
+      "bbox": [
+        74.0,
+        120.0,
+        427.0,
+        201.0
+      ]
+    },
+    {
+      "text": "Pour",
+      "confidence": 0.9192427396774292,
+      "language": "fr",
+      "bbox": [
+        508.0,
+        139.0,
+        561.0,
+        186.0
+      ]
+    },
+    {
+      "text": "Amériques grillées 100%.",
+      "confidence": 0.9988713264465332,
+      "language": "fr",
+      "bbox": [
+        31.0,
+        174.0,
+        479.0,
+        259.0
+      ]
+    },
+    {
+      "text": "Ser",
+      "confidence": 0.9932162761688232,
+      "language": "fr",
+      "bbox": [
+        508.0,
+        182.0,
+        561.0,
+        224.0
+      ]
+    },
+    {
+      "text": "Traces éventuelles de fruits à",
+      "confidence": 0.9950529336929321,
+      "language": "fr",
+      "bbox": [
+        37.0,
+        225.0,
+        479.0,
+        298.0
+      ]
+    },
+    {
+      "text": "coque, soja et gluten de blé.",
+      "confidence": 0.9810574054718018,
+      "language": "fr",
+      "bbox": [
+        46.0,
+        266.0,
+        476.0,
+        342.0
+      ]
+    },
+    {
+      "text": "Valeurs nutritionnelles",
+      "confidence": 0.9975488185882568,
+      "language": "fr",
+      "bbox": [
+        63.0,
+        309.0,
+        464.0,
+        378.0
+      ]
+    },
+    {
+      "text": "moyennes pour 100g:",
+      "confidence": 0.9889018535614014,
+      "language": "fr",
+      "bbox": [
+        77.0,
+        353.0,
+        460.0,
+        421.0
+      ]
+    },
+    {
+      "text": "énergie : 2529 kJ (610 kcal),",
+      "confidence": 0.9243019223213196,
+      "language": "fr",
+      "bbox": [
+        72.0,
+        389.0,
+        469.0,
+        462.0
+      ]
+    },
+    {
+      "text": "matières grasses : 48g (dont",
+      "confidence": 0.9620604515075684,
+      "language": "fr",
+      "bbox": [
+        75.0,
+        431.0,
+        473.0,
+        501.0
+      ]
+    },
+    {
+      "text": "acides gras saturés : 5,8g),",
+      "confidence": 0.9574653506278992,
+      "language": "fr",
+      "bbox": [
+        92.0,
+        473.0,
+        464.0,
+        541.0
+      ]
+    },
+    {
+      "text": "se",
+      "confidence": 0.9953441619873047,
+      "language": "fr",
+      "bbox": [
+        520.0,
+        494.0,
+        559.0,
+        538.0
+      ]
+    },
+    {
+      "text": "glucides : 13g (dont sucres:",
+      "confidence": 0.9853717088699341,
+      "language": "fr",
+      "bbox": [
+        88.0,
+        516.0,
+        478.0,
+        579.0
+      ]
+    },
+    {
+      "text": "Re",
+      "confidence": 0.999492883682251,
+      "language": "fr",
+      "bbox": [
+        523.0,
+        540.0,
+        561.0,
+        583.0
+      ]
+    },
+    {
+      "text": "6,2g), fibres alimentaires :7,0g,",
+      "confidence": 0.8637941479682922,
+      "language": "fr",
+      "bbox": [
+        62.0,
+        550.0,
+        504.0,
+        623.0
+      ]
+    },
+    {
+      "text": "protéines: 28g, sel: 0,05g.",
+      "confidence": 0.9254229068756104,
+      "language": "fr",
+      "bbox": [
+        99.0,
+        593.0,
+        472.0,
+        665.0
+      ]
+    },
+    {
+      "text": "COUVERCLE",
+      "confidence": 0.9540083408355713,
+      "language": "fr",
+      "bbox": [
+        227.0,
+        664.0,
+        352.0,
+        713.0
+      ]
+    },
+    {
+      "text": "BAC",
+      "confidence": 0.9988786578178406,
+      "language": "fr",
+      "bbox": [
+        399.0,
+        690.0,
+        442.0,
+        718.0
+      ]
+    },
+    {
+      "text": "+ OPERCULE",
+      "confidence": 0.9566696882247925,
+      "language": "fr",
+      "bbox": [
+        232.0,
+        698.0,
+        363.0,
+        745.0
+      ]
+    },
+    {
+      "text": "DE",
+      "confidence": 0.9686527252197266,
+      "language": "fr",
+      "bbox": [
+        402.0,
+        712.0,
+        438.0,
+        741.0
+      ]
+    },
+    {
+      "text": "+POT",
+      "confidence": 0.9807040691375732,
+      "language": "fr",
+      "bbox": [
+        236.0,
+        732.0,
+        310.0,
+        779.0
+      ]
+    },
+    {
+      "text": "CO",
+      "confidence": 0.7379967570304871,
+      "language": "fr",
+      "bbox": [
+        526.0,
+        764.0,
+        560.0,
+        796.0
+      ]
+    },
+    {
+      "text": "EMB 81163 C avant la date fiu",
+      "confidence": 0.7731689810752869,
+      "language": "fr",
+      "bbox": [
+        129.0,
+        788.0,
+        561.0,
+        850.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        515.0,
+        254.0,
+        561.0,
+        300.0
+      ],
+      "text": "31",
+      "confidence": 0.9977400302886963,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        525.0,
+        227.0,
+        545.0,
+        246.0
+      ],
+      "text": "-",
+      "confidence": 0.45156192779541016,
+      "reason": "low confidence 0.45 < 0.6"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "language_first:fr",
+    "blocks_detected": 28,
+    "blocks_kept": 26,
+    "retry": {}
+  }
+}

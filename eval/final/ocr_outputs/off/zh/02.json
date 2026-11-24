@@ -1,0 +1,45 @@
+{
+  "results": [
+    {
+      "text": "配料表：水，非转基因黄豆，食用",
+      "confidence": 0.9997800588607788,
+      "language": "zh",
+      "bbox": [
+        0.0,
+        0.0,
+        1599.0,
+        247.0
+      ]
+    },
+    {
+      "text": "钠，草菇。",
+      "confidence": 0.8601984977722168,
+      "language": "zh",
+      "bbox": [
+        19.0,
+        348.0,
+        437.0,
+        550.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        537.0,
+        0.0,
+        1197.0,
+        33.0
+      ],
+      "text": "CHUH",
+      "confidence": 0.6224604249000549,
+      "reason": "script mismatch for model zh"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "three_pass",
+    "blocks_detected": 3,
+    "blocks_kept": 2,
+    "retry": {}
+  }
+}

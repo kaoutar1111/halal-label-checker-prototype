@@ -1,0 +1,41 @@
+fast_mode,lang,image,status,cer_content,cer_strict,ingredient_recall,ingredient_precision,verdict_expected,verdict_actual,verdict_ok,flags_expected,flags_missed,flag_recall,false_alarms,false_alarm_names,unrecognized,blocks_detected,blocks_kept,strategy,retry,time_warm_s
+off,ar,ar/01.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,نكهات,نكهات,n/a,n/a,,,52,48,three_pass,,59.30
+off,ar,ar/02.jpg,ok,0.7986,0.8000,0.154,0.200,À vérifier,À vérifier,yes,غليسرول,غليسرول,0.000,1,arômes; flavourings; الصويا بدون نكهات إصطناعية أ أو ICIAIS; نكهات; 香料,DESTA BOLACHA لا تحتوي; SIST مكونات هذا البسكويت على أي مادة تس; مواد رافعة الجلوتين; مواد معاملة الدقيق اليسيثين الصويا,45,41,three_pass,,46.26
+off,ar,ar/03.jpg,ok,0.5351,0.5948,0.200,0.400,À vérifier,À vérifier,yes,,,1.000,0,,املاح مستحلبة حافظة سوربات,33,29,three_pass,,31.86
+off,ar,ar/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,نكهة; E322,نكهة; E322,n/a,n/a,,,7,5,three_pass,tiled:discarded:9.12s,17.01
+off,ar,ar/05.jpg,ok,0.7436,0.7290,0.400,0.500,À vérifier,À vérifier,yes,نكهة,نكهة,0.000,0,,توم; صلصة مطهوة ومركزا الطماطم ive; لح; نكة البصل الطبيعية بص,15,13,three_pass,,16.62
+off,en,en/01.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,soy sauce; natural flavors; disodium guanylate; disodium inosinate; chicken,soy sauce; natural flavors; disodium guanylate; disodium inosinate; chicken,n/a,n/a,,,14,9,three_pass,tiled:discarded:31.93s,50.53
+off,en,en/02.jpg,ok,0.6400,0.6500,0.200,0.500,À vérifier,À vérifier,yes,lecithins,lecithins,0.000,0,,,57,41,three_pass,,59.15
+off,en,en/03.jpg,ok,0.7566,0.7591,0.087,0.500,À vérifier,À vérifier,yes,whey powder; flavouring,whey powder; flavouring,0.000,0,,graa padano miecroacesemi other,4,3,three_pass,,17.48
+off,en,en/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,flavor,flavor,n/a,n/a,,,6,2,three_pass,,8.32
+off,en,en/05.jpg,ok,0.4859,0.5176,0.524,0.846,À vérifier,À vérifier,yes,flavouring,flavouring,0.000,0,,e r,23,17,three_pass,,27.88
+off,fr,fr/01.jpg,no ingredients section found,n/a,n/a,n/a,n/a,Incompatible ingredient detected,À vérifier,NO,porc; arome naturel,porc; arome naturel,n/a,n/a,,,11,4,three_pass,,25.30
+off,fr,fr/02.jpg,ok,0.0000,0.0000,1.000,1.000,No incompatible ingredient found in the reference,No incompatible ingredient found in the reference,yes,,,1.000,0,,,1,1,three_pass,,3.12
+off,fr,fr/03.jpg,ok,0.6296,0.6465,0.000,0.000,À vérifier,À vérifier,yes,,,1.000,0,,,28,26,three_pass,,31.67
+off,fr,fr/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,,,n/a,n/a,,,9,6,three_pass,,11.93
+off,fr,fr/05.jpg,ok,0.2812,0.2598,0.600,0.750,À vérifier,À vérifier,yes,arome naturel,arome naturel,0.000,0,,ognons; su,8,8,three_pass,,16.01
+off,zh,zh/01.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,,,n/a,n/a,,,19,19,three_pass,,27.35
+off,zh,zh/02.jpg,ok,0.5417,0.5625,0.286,0.667,À vérifier,À vérifier,yes,,,1.000,0,,草菇; 非转基因,3,2,three_pass,,6.83
+off,zh,zh/03.jpg,ok,0.2381,0.2692,1.000,0.833,À vérifier,À vérifier,yes,,,1.000,0,,三聚; 方法; 鸡胸肉; 黑椒,4,4,three_pass,,7.29
+off,zh,zh/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,乳清粉,乳清粉,n/a,n/a,,,6,6,three_pass,,13.58
+off,zh,zh/05.jpg,ok,0.4000,0.3077,0.667,0.667,À vérifier,À vérifier,yes,,,1.000,0,,含tbhq; 花椒年化似油,4,4,three_pass,,4.91
+on,ar,ar/01.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,نكهات,نكهات,n/a,n/a,,,52,40,language_first:ar,,23.69
+on,ar,ar/02.jpg,ok,0.7986,0.8000,0.154,0.200,À vérifier,À vérifier,yes,غليسرول,غليسرول,0.000,1,arômes; flavourings; الصويا بدون نكهات إصطناعية أ أو ICIAIS; نكهات; 香料,DESTA BOLACHA لا تحتوي; SIST مكونات هذا البسكويت على أي مادة تس; مواد رافعة الجلوتين; مواد معاملة الدقيق اليسيثين الصويا,45,41,language_first:ar+fr,,25.91
+on,ar,ar/03.jpg,ok,0.5351,0.5948,0.200,0.400,À vérifier,À vérifier,yes,,,1.000,0,,املاح مستحلبة حافظة سوربات,33,29,language_first:ar+fr,,18.47
+on,ar,ar/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,نكهة; E322,نكهة; E322,n/a,n/a,,,7,5,language_first:all,tiled:discarded:9.16s,17.16
+on,ar,ar/05.jpg,ok,0.7350,0.7290,0.400,0.571,À vérifier,À vérifier,yes,نكهة,نكهة,0.000,0,,توم; صلصة مطهوة ومركزا الطماطم لتحضي الم دوار الشمس; لح; نكة البصل الطبيعية بص,15,12,language_first:ar,,9.67
+on,en,en/01.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,soy sauce; natural flavors; disodium guanylate; disodium inosinate; chicken,soy sauce; natural flavors; disodium guanylate; disodium inosinate; chicken,n/a,n/a,,,14,9,language_first:fr,tiled:discarded:7.6s,19.09
+on,en,en/02.jpg,ok,0.6400,0.6500,0.200,0.500,À vérifier,À vérifier,yes,lecithins,lecithins,0.000,0,,,57,40,language_first:fr,,21.62
+on,en,en/03.jpg,ok,0.7566,0.7591,0.087,0.500,À vérifier,À vérifier,yes,whey powder; flavouring,whey powder; flavouring,0.000,0,,graa padano miecroacesemi other,4,3,language_first:all,,17.50
+on,en,en/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,flavor,flavor,n/a,n/a,,,6,2,language_first:all,,8.85
+on,en,en/05.jpg,ok,0.4859,0.5176,0.524,0.846,À vérifier,À vérifier,yes,flavouring,flavouring,0.000,0,,e r,23,17,language_first:fr,,14.51
+on,fr,fr/01.jpg,no ingredients section found,n/a,n/a,n/a,n/a,Incompatible ingredient detected,À vérifier,NO,porc; arome naturel,porc; arome naturel,n/a,n/a,,,11,4,language_first:fr,,18.01
+on,fr,fr/02.jpg,ok,0.0000,0.0000,1.000,1.000,No incompatible ingredient found in the reference,No incompatible ingredient found in the reference,yes,,,1.000,0,,,1,1,language_first:all,,3.06
+on,fr,fr/03.jpg,ok,0.6296,0.6465,0.000,0.000,À vérifier,À vérifier,yes,,,1.000,0,,,28,26,language_first:fr,,13.18
+on,fr,fr/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,,,n/a,n/a,,,9,6,language_first:fr,,10.24
+on,fr,fr/05.jpg,ok,0.2812,0.2598,0.600,0.750,À vérifier,À vérifier,yes,arome naturel,arome naturel,0.000,0,,ognons; su,8,8,language_first:all,,16.16
+on,zh,zh/01.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,,,n/a,n/a,,,19,19,language_first:fr+zh,,24.26
+on,zh,zh/02.jpg,ok,0.5417,0.5625,0.286,0.667,À vérifier,À vérifier,yes,,,1.000,0,,草菇; 非转基因,3,2,language_first:all,,6.37
+on,zh,zh/03.jpg,ok,0.2381,0.2692,1.000,0.833,À vérifier,À vérifier,yes,,,1.000,0,,三聚; 方法; 鸡胸肉; 黑椒,4,4,language_first:all,,6.67
+on,zh,zh/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,乳清粉,乳清粉,n/a,n/a,,,6,6,language_first:all,,13.03
+on,zh,zh/05.jpg,ok,0.4000,0.3077,0.667,0.667,À vérifier,À vérifier,yes,,,1.000,0,,含tbhq; 花椒年化似油,4,4,language_first:all,,4.73

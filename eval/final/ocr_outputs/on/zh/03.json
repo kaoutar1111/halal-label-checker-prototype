@@ -1,0 +1,55 @@
+{
+  "results": [
+    {
+      "text": "产品名称：鸡胸肉(黑椒味)",
+      "confidence": 0.9260636568069458,
+      "language": "zh",
+      "bbox": [
+        140.0,
+        16.0,
+        598.0,
+        86.0
+      ]
+    },
+    {
+      "text": "配料表：鸡胸肉、黑椒调味料、香辛料、食品添加剂(三聚磷酸钠)",
+      "confidence": 0.9689835906028748,
+      "language": "zh",
+      "bbox": [
+        141.0,
+        57.0,
+        1183.0,
+        150.0
+      ]
+    },
+    {
+      "text": "食用方法",
+      "confidence": 0.9999805688858032,
+      "language": "zh",
+      "bbox": [
+        1111.0,
+        124.0,
+        1239.0,
+        170.0
+      ]
+    },
+    {
+      "text": "营养成分表",
+      "confidence": 0.999991238117218,
+      "language": "zh",
+      "bbox": [
+        417.0,
+        146.0,
+        598.0,
+        197.0
+      ]
+    }
+  ],
+  "unreadable": [],
+  "diagnostics": {
+    "strategy": "language_first:all",
+    "blocks_detected": 4,
+    "blocks_kept": 4,
+    "retry": {}
+  }
+}

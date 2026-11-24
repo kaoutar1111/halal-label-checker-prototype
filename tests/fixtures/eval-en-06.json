@@ -1,0 +1,849 @@
+[
+  {
+    "text": "INGREDIENTS:",
+    "confidence": 0.9789397716522217,
+    "language": "en",
+    "bbox": [
+      28.0,
+      24.0,
+      137.0,
+      48.0
+    ]
+  },
+  {
+    "text": "NUTRITION",
+    "confidence": 0.9996008276939392,
+    "language": "en",
+    "bbox": [
+      721.0,
+      35.0,
+      946.0,
+      76.0
+    ]
+  },
+  {
+    "text": "NOODLES: WHEAT FLOUR, POTATO STARCH, PALM OIL (CONTAINS",
+    "confidence": 0.9840535521507263,
+    "language": "en",
+    "bbox": [
+      24.0,
+      44.0,
+      589.0,
+      77.0
+    ]
+  },
+  {
+    "text": "ANTIOXIDANT (307B)), SEASONING (YEAST EXTRACT, SOY SAUCE,",
+    "confidence": 0.9932917356491089,
+    "language": "en",
+    "bbox": [
+      21.0,
+      69.0,
+      583.0,
+      102.0
+    ]
+  },
+  {
+    "text": "INFORMATION",
+    "confidence": 0.9998618960380554,
+    "language": "en",
+    "bbox": [
+      688.0,
+      69.0,
+      966.0,
+      112.0
+    ]
+  },
+  {
+    "text": "GARLIC, MALTÒDEXTRIN), MINERAL SALTS (339, 452, 500, 501), GREEN",
+    "confidence": 0.9831879138946533,
+    "language": "en",
+    "bbox": [
+      20.0,
+      93.0,
+      619.0,
+      128.0
+    ]
+  },
+  {
+    "text": "Servings per package:5",
+    "confidence": 0.9992489218711853,
+    "language": "en",
+    "bbox": [
+      732.0,
+      104.0,
+      935.0,
+      137.0
+    ]
+  },
+  {
+    "text": "TEA EXTRACT, COLOUR (101).",
+    "confidence": 0.9977582693099976,
+    "language": "en",
+    "bbox": [
+      18.0,
+      116.0,
+      260.0,
+      149.0
+    ]
+  },
+  {
+    "text": "Serving size:120g",
+    "confidence": 0.9816190004348755,
+    "language": "en",
+    "bbox": [
+      733.0,
+      126.0,
+      893.0,
+      159.0
+    ]
+  },
+  {
+    "text": "SOUP POWDER: SEASONING (HYDROLYZED VEGETABLE PROTEIN",
+    "confidence": 0.9921958446502686,
+    "language": "en",
+    "bbox": [
+      18.0,
+      140.0,
+      587.0,
+      174.0
+    ]
+  },
+  {
+    "text": "Average",
+    "confidence": 0.9998246431350708,
+    "language": "en",
+    "bbox": [
+      821.0,
+      158.0,
+      882.0,
+      184.0
+    ]
+  },
+  {
+    "text": "Average",
+    "confidence": 0.9995264410972595,
+    "language": "en",
+    "bbox": [
+      927.0,
+      160.0,
+      978.0,
+      186.0
+    ]
+  },
+  {
+    "text": "(CONTAINS SOY), YEAST EXTRACT, MALTODEXTRIN, VEGETABLES, KELP,",
+    "confidence": 0.9936062693595886,
+    "language": "en",
+    "bbox": [
+      18.0,
+      164.0,
+      640.0,
+      200.0
+    ]
+  },
+  {
+    "text": "Quantity per",
+    "confidence": 0.9996348023414612,
+    "language": "en",
+    "bbox": [
+      794.0,
+      176.0,
+      883.0,
+      207.0
+    ]
+  },
+  {
+    "text": "Quantity per",
+    "confidence": 0.9413205981254578,
+    "language": "en",
+    "bbox": [
+      908.0,
+      181.0,
+      978.0,
+      203.0
+    ]
+  },
+  {
+    "text": "WHEAT FLOUR, SOYBEAN OIL, SOY SAUCE), SALT, SPICES, SUGAR,",
+    "confidence": 0.9882391095161438,
+    "language": "en",
+    "bbox": [
+      17.0,
+      188.0,
+      592.0,
+      222.0
+    ]
+  },
+  {
+    "text": "Serving",
+    "confidence": 0.999398410320282,
+    "language": "en",
+    "bbox": [
+      823.0,
+      199.0,
+      881.0,
+      226.0
+    ]
+  },
+  {
+    "text": "100g",
+    "confidence": 0.9994159936904907,
+    "language": "en",
+    "bbox": [
+      948.0,
+      200.0,
+      980.0,
+      228.0
+    ]
+  },
+  {
+    "text": "FLAVOUR ENHANCER (627, 631), GLUCOSE, MUSHROOM, COLOUR (150C).",
+    "confidence": 0.9789032340049744,
+    "language": "en",
+    "bbox": [
+      12.0,
+      207.0,
+      645.0,
+      251.0
+    ]
+  },
+  {
+    "text": "Energy",
+    "confidence": 0.9998539090156555,
+    "language": "en",
+    "bbox": [
+      663.0,
+      222.0,
+      725.0,
+      253.0
+    ]
+  },
+  {
+    "text": "2120kJ",
+    "confidence": 0.9996622204780579,
+    "language": "en",
+    "bbox": [
+      821.0,
+      228.0,
+      877.0,
+      255.0
+    ]
+  },
+  {
+    "text": "1790kJ",
+    "confidence": 0.9986374974250793,
+    "language": "en",
+    "bbox": [
+      932.0,
+      233.0,
+      977.0,
+      255.0
+    ]
+  },
+  {
+    "text": "FLAKES: DRIED VEGETABLES, TEXTURED VEGETABLE PROTEIN (SOY,",
+    "confidence": 0.994635820388794,
+    "language": "en",
+    "bbox": [
+      13.0,
+      231.0,
+      619.0,
+      273.0
+    ]
+  },
+  {
+    "text": "Protein",
+    "confidence": 0.9998447299003601,
+    "language": "en",
+    "bbox": [
+      663.0,
+      247.0,
+      723.0,
+      273.0
+    ]
+  },
+  {
+    "text": "10g",
+    "confidence": 0.9996897578239441,
+    "language": "en",
+    "bbox": [
+      844.0,
+      256.0,
+      877.0,
+      282.0
+    ]
+  },
+  {
+    "text": "8.6g",
+    "confidence": 0.9994218349456787,
+    "language": "en",
+    "bbox": [
+      946.0,
+      257.0,
+      978.0,
+      282.0
+    ]
+  },
+  {
+    "text": "SOY SAUCE, WHEAT GLUTEN), DRIED MUSHROOM.",
+    "confidence": 0.998987078666687,
+    "language": "en",
+    "bbox": [
+      14.0,
+      259.0,
+      446.0,
+      290.0
+    ]
+  },
+  {
+    "text": "Fat Total",
+    "confidence": 0.9373911619186401,
+    "language": "en",
+    "bbox": [
+      662.0,
+      272.0,
+      727.0,
+      297.0
+    ]
+  },
+  {
+    "text": "16g",
+    "confidence": 0.9999507069587708,
+    "language": "en",
+    "bbox": [
+      843.0,
+      280.0,
+      874.0,
+      306.0
+    ]
+  },
+  {
+    "text": "14g",
+    "confidence": 0.9998846650123596,
+    "language": "en",
+    "bbox": [
+      951.0,
+      283.0,
+      977.0,
+      306.0
+    ]
+  },
+  {
+    "text": "ALLERGY INFORMATION: CONTAINS WHEAT AND SOY.",
+    "confidence": 0.994852602481842,
+    "language": "en",
+    "bbox": [
+      15.0,
+      288.0,
+      476.0,
+      319.0
+    ]
+  },
+  {
+    "text": "Saturated LESS THAN 8.Og",
+    "confidence": 0.9149966239929199,
+    "language": "en",
+    "bbox": [
+      680.0,
+      296.0,
+      874.0,
+      327.0
+    ]
+  },
+  {
+    "text": "LESS THAN 6.7g",
+    "confidence": 0.9451445937156677,
+    "language": "en",
+    "bbox": [
+      868.0,
+      302.0,
+      975.0,
+      330.0
+    ]
+  },
+  {
+    "text": "PRODUCED IN A FACILITY THAT ALSO PROCESSES PRODUCTS THAT",
+    "confidence": 0.9932196736335754,
+    "language": "en",
+    "bbox": [
+      15.0,
+      311.0,
+      595.0,
+      346.0
+    ]
+  },
+  {
+    "text": "Carbohydrate",
+    "confidence": 0.9997153878211975,
+    "language": "en",
+    "bbox": [
+      661.0,
+      319.0,
+      768.0,
+      351.0
+    ]
+  },
+  {
+    "text": "80g",
+    "confidence": 0.999767541885376,
+    "language": "en",
+    "bbox": [
+      834.0,
+      325.0,
+      871.0,
+      355.0
+    ]
+  },
+  {
+    "text": "66g",
+    "confidence": 0.9996650218963623,
+    "language": "en",
+    "bbox": [
+      948.0,
+      330.0,
+      977.0,
+      356.0
+    ]
+  },
+  {
+    "text": "CONTAINS EGGS, MILK, PEANUTS, TREE NUTS AND SESAME.",
+    "confidence": 0.9932273626327515,
+    "language": "en",
+    "bbox": [
+      15.0,
+      335.0,
+      531.0,
+      369.0
+    ]
+  },
+  {
+    "text": "Sugars",
+    "confidence": 0.9998131394386292,
+    "language": "en",
+    "bbox": [
+      677.0,
+      344.0,
+      736.0,
+      377.0
+    ]
+  },
+  {
+    "text": "3.1g",
+    "confidence": 0.9879562258720398,
+    "language": "en",
+    "bbox": [
+      829.0,
+      348.0,
+      873.0,
+      380.0
+    ]
+  },
+  {
+    "text": "2.6g",
+    "confidence": 0.9995150566101074,
+    "language": "en",
+    "bbox": [
+      940.0,
+      351.0,
+      976.0,
+      380.0
+    ]
+  },
+  {
+    "text": "STORAGE REQUIREMENTS: KEEP IN A COOL DRY PLACE.",
+    "confidence": 0.9880312085151672,
+    "language": "en",
+    "bbox": [
+      14.0,
+      365.0,
+      498.0,
+      402.0
+    ]
+  },
+  {
+    "text": "Sodium",
+    "confidence": 0.9997838139533997,
+    "language": "en",
+    "bbox": [
+      658.0,
+      368.0,
+      725.0,
+      396.0
+    ]
+  },
+  {
+    "text": "1760mg",
+    "confidence": 0.9998556971549988,
+    "language": "en",
+    "bbox": [
+      808.0,
+      374.0,
+      870.0,
+      402.0
+    ]
+  },
+  {
+    "text": "1470mg",
+    "confidence": 0.9981744289398193,
+    "language": "en",
+    "bbox": [
+      917.0,
+      376.0,
+      971.0,
+      404.0
+    ]
+  },
+  {
+    "text": "IN AUSTRALIA",
+    "confidence": 0.9670186042785645,
+    "language": "en",
+    "bbox": [
+      15.0,
+      394.0,
+      134.0,
+      422.0
+    ]
+  },
+  {
+    "text": "IMPORTED BY: NONGSHIM AUSTRALIA PTY LTD.",
+    "confidence": 0.9882969856262207,
+    "language": "en",
+    "bbox": [
+      15.0,
+      417.0,
+      421.0,
+      451.0
+    ]
+  },
+  {
+    "text": "Nutrition Facts",
+    "confidence": 0.9999510645866394,
+    "language": "en",
+    "bbox": [
+      660.0,
+      412.0,
+      952.0,
+      448.0
+    ]
+  },
+  {
+    "text": "TEL: (02) 9870-7178",
+    "confidence": 0.9983460307121277,
+    "language": "en",
+    "bbox": [
+      17.0,
+      462.0,
+      174.0,
+      492.0
+    ]
+  },
+  {
+    "text": "SUITE 2.8, 56 DELHI ROAD, NORTH RYDE, NSW 2113 AUSTRALIA",
+    "confidence": 0.9900990724563599,
+    "language": "en",
+    "bbox": [
+      16.0,
+      440.0,
+      551.0,
+      478.0
+    ]
+  },
+  {
+    "text": "Servings Size 1 (120g)",
+    "confidence": 0.9787600040435791,
+    "language": "en",
+    "bbox": [
+      658.0,
+      443.0,
+      851.0,
+      472.0
+    ]
+  },
+  {
+    "text": "Servings Per Container 5",
+    "confidence": 0.9639797806739807,
+    "language": "en",
+    "bbox": [
+      656.0,
+      463.0,
+      868.0,
+      495.0
+    ]
+  },
+  {
+    "text": "Amount Per Serving",
+    "confidence": 0.9995278120040894,
+    "language": "en",
+    "bbox": [
+      656.0,
+      509.0,
+      795.0,
+      535.0
+    ]
+  },
+  {
+    "text": "Calories 500 Calories from Fat 140",
+    "confidence": 0.9954099059104919,
+    "language": "en",
+    "bbox": [
+      655.0,
+      536.0,
+      957.0,
+      561.0
+    ]
+  },
+  {
+    "text": "% Dally Value",
+    "confidence": 0.9754945039749146,
+    "language": "en",
+    "bbox": [
+      867.0,
+      568.0,
+      956.0,
+      591.0
+    ]
+  },
+  {
+    "text": "Total Fat 16g",
+    "confidence": 0.9949296712875366,
+    "language": "en",
+    "bbox": [
+      650.0,
+      590.0,
+      770.0,
+      620.0
+    ]
+  },
+  {
+    "text": "Saturated Fat 8g",
+    "confidence": 0.9988241791725159,
+    "language": "en",
+    "bbox": [
+      669.0,
+      615.0,
+      815.0,
+      643.0
+    ]
+  },
+  {
+    "text": "Trans Fat Og",
+    "confidence": 0.9704481959342957,
+    "language": "en",
+    "bbox": [
+      670.0,
+      640.0,
+      779.0,
+      668.0
+    ]
+  },
+  {
+    "text": "Cholesterol Omg",
+    "confidence": 0.9986768364906311,
+    "language": "en",
+    "bbox": [
+      645.0,
+      665.0,
+      794.0,
+      694.0
+    ]
+  },
+  {
+    "text": "Manufactured by",
+    "confidence": 0.9999103546142578,
+    "language": "en",
+    "bbox": [
+      259.0,
+      684.0,
+      405.0,
+      717.0
+    ]
+  },
+  {
+    "text": "Sodium 1760mg",
+    "confidence": 0.9986596703529358,
+    "language": "en",
+    "bbox": [
+      643.0,
+      692.0,
+      791.0,
+      719.0
+    ]
+  },
+  {
+    "text": "NONGSHIM CO., LTD.",
+    "confidence": 0.9665156602859497,
+    "language": "en",
+    "bbox": [
+      258.0,
+      706.0,
+      506.0,
+      745.0
+    ]
+  },
+  {
+    "text": "Total Carbohydrate 80g",
+    "confidence": 0.9878118634223938,
+    "language": "en",
+    "bbox": [
+      645.0,
+      721.0,
+      853.0,
+      742.0
+    ]
+  },
+  {
+    "text": "112, YEOUIDAEBANG-RO,",
+    "confidence": 0.9985042810440063,
+    "language": "en",
+    "bbox": [
+      260.0,
+      734.0,
+      495.0,
+      767.0
+    ]
+  },
+  {
+    "text": "号与尼尼片文章",
+    "confidence": 0.5816046595573425,
+    "language": "en",
+    "bbox": [
+      519.0,
+      695.0,
+      557.0,
+      831.0
+    ]
+  },
+  {
+    "text": "Dietary Fiber 5g",
+    "confidence": 0.999439537525177,
+    "language": "en",
+    "bbox": [
+      663.0,
+      743.0,
+      800.0,
+      769.0
+    ]
+  },
+  {
+    "text": "DONGJAK-GU,",
+    "confidence": 0.9994396567344666,
+    "language": "en",
+    "bbox": [
+      260.0,
+      757.0,
+      393.0,
+      785.0
+    ]
+  },
+  {
+    "text": "Sugars 3g",
+    "confidence": 0.9809319376945496,
+    "language": "en",
+    "bbox": [
+      659.0,
+      765.0,
+      751.0,
+      791.0
+    ]
+  },
+  {
+    "text": "SEOUL, KOREA",
+    "confidence": 0.9994775652885437,
+    "language": "en",
+    "bbox": [
+      261.0,
+      785.0,
+      446.0,
+      816.0
+    ]
+  },
+  {
+    "text": "Protein 10g",
+    "confidence": 0.9982483386993408,
+    "language": "en",
+    "bbox": [
+      638.0,
+      790.0,
+      741.0,
+      810.0
+    ]
+  },
+  {
+    "text": "NONGSHIM",
+    "confidence": 0.9998804926872253,
+    "language": "en",
+    "bbox": [
+      78.0,
+      808.0,
+      251.0,
+      848.0
+    ]
+  },
+  {
+    "text": "http://www.nongshim.com",
+    "confidence": 0.9997997283935547,
+    "language": "en",
+    "bbox": [
+      263.0,
+      820.0,
+      500.0,
+      844.0
+    ]
+  },
+  {
+    "text": "Vitamin A 0%",
+    "confidence": 0.9751234650611877,
+    "language": "en",
+    "bbox": [
+      634.0,
+      823.0,
+      747.0,
+      846.0
+    ]
+  },
+  {
+    "text": "Vitamin C 0%",
+    "confidence": 0.9831289649009705,
+    "language": "en",
+    "bbox": [
+      809.0,
+      818.0,
+      925.0,
+      844.0
+    ]
+  },
+  {
+    "text": "MADE IN KOREA",
+    "confidence": 0.9842389225959778,
+    "language": "en",
+    "bbox": [
+      262.0,
+      845.0,
+      491.0,
+      884.0
+    ]
+  },
+  {
+    "text": "Calcium 4%",
+    "confidence": 0.999348521232605,
+    "language": "en",
+    "bbox": [
+      634.0,
+      847.0,
+      737.0,
+      872.0
+    ]
+  },
+  {
+    "text": "Iron 8%",
+    "confidence": 0.9988622069358826,
+    "language": "en",
+    "bbox": [
+      807.0,
+      842.0,
+      874.0,
+      866.0
+    ]
+  }
+]

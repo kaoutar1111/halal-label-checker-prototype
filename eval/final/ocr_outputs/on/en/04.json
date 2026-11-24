@@ -1,0 +1,78 @@
+{
+  "results": [
+    {
+      "text": "Fried Tomato Sauce",
+      "confidence": 0.9977701902389526,
+      "language": "fr",
+      "bbox": [
+        43.0,
+        19.0,
+        549.0,
+        117.0
+      ]
+    },
+    {
+      "text": "See top.",
+      "confidence": 0.9690064787864685,
+      "language": "fr",
+      "bbox": [
+        43.0,
+        481.0,
+        248.0,
+        572.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        32.0,
+        328.0,
+        1291.0,
+        521.0
+      ],
+      "text": "Manuadung ttefor/Bumber.",
+      "confidence": 0.6465904116630554,
+      "reason": "script mismatch for model ar"
+    },
+    {
+      "bbox": [
+        31.0,
+        270.0,
+        1197.0,
+        441.0
+      ],
+      "text": ",,,",
+      "confidence": 0.6825871467590332,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        31.0,
+        194.0,
+        1148.0,
+        370.0
+      ],
+      "text": ",,,,",
+      "confidence": 0.5594278573989868,
+      "reason": "low confidence 0.56 < 0.6"
+    },
+    {
+      "bbox": [
+        28.0,
+        106.0,
+        1222.0,
+        300.0
+      ],
+      "text": ".",
+      "confidence": 0.45347267389297485,
+      "reason": "low confidence 0.45 < 0.6"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "language_first:all",
+    "blocks_detected": 6,
+    "blocks_kept": 2,
+    "retry": {}
+  }
+}

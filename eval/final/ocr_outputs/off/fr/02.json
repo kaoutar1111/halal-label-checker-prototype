@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "text": "Ingrédients : Sardines, huile d'olive vierge extra, sel.",
+      "confidence": 0.9674209952354431,
+      "language": "fr",
+      "bbox": [
+        46.0,
+        69.0,
+        1476.0,
+        184.0
+      ]
+    }
+  ],
+  "unreadable": [],
+  "diagnostics": {
+    "strategy": "three_pass",
+    "blocks_detected": 1,
+    "blocks_kept": 1,
+    "retry": {}
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "results": [
+    {
+      "text": "فض",
+      "confidence": 0.803888201713562,
+      "language": "fr",
+      "bbox": [
+        71.0,
+        43.0,
+        104.0,
+        112.0
+      ]
+    },
+    {
+      "text": "FR Cauti",
+      "confidence": 0.8435286283493042,
+      "language": "fr",
+      "bbox": [
+        130.0,
+        29.0,
+        170.0,
+        167.0
+      ]
+    },
+    {
+      "text": "كاكاو م",
+      "confidence": 0.7433705925941467,
+      "language": "fr",
+      "bbox": [
+        72.0,
+        94.0,
+        107.0,
+        185.0
+      ]
+    },
+    {
+      "text": "Ca ao Maigre en Poudre, Emulsifia",
+      "confidence": 0.9752207398414612,
+      "language": "fr",
+      "bbox": [
+        103.0,
+        66.0,
+        144.0,
+        401.0
+      ]
+    },
+    {
+      "text": "،راشح الحليب، مس",
+      "confidence": 0.8479965329170227,
+      "language": "fr",
+      "bbox": [
+        80.0,
+        235.0,
+        107.0,
+        402.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        52.0,
+        178.0,
+        75.0,
+        229.0
+      ],
+      "text": "H",
+      "confidence": 0.23797953128814697,
+      "reason": "low confidence 0.24 < 0.6"
+    },
+    {
+      "bbox": [
+        148.0,
+        19.0,
+        156.0,
+        24.0
+      ],
+      "text": "–",
+      "confidence": 0.5593321919441223,
+      "reason": "low confidence 0.56 < 0.6"
+    },
+    {
+      "bbox": [
+        111.0,
+        1057.0,
+        176.0,
+        1567.0
+      ],
+      "text": "Coat  , oodN",
+      "confidence": 0.5616573691368103,
+      "reason": "low confidence 0.56 < 0.6"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "language_first:all",
+    "blocks_detected": 7,
+    "blocks_kept": 5,
+    "retry": {
+      "mode": "tiled",
+      "used": false,
+      "seconds": 9.16,
+      "languages": [
+        "ar",
+        "fr",
+        "zh"
+      ],
+      "errors": [],
+      "results_before": 5,
+      "results_after": 6
+    }
+  }
+}

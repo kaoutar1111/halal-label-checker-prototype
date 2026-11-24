@@ -1,0 +1,43 @@
+fast_mode,lang,image,status,cer_content,cer_strict,ingredient_recall,ingredient_precision,verdict_expected,verdict_actual,verdict_ok,flags_expected,flags_missed,flag_recall,false_alarms,false_alarm_names,unrecognized,blocks_detected,blocks_kept,strategy,retry,time_warm_s
+off,ar,ar/01.jpg,ok,0.0156,0.0359,0.789,0.882,À vérifier,À vérifier,yes,نكهات,,1.000,0,,حمض الستريكمادة حافة; قصب السكر,7,7,three_pass,,15.51
+off,ar,ar/02.jpg,ok,2.6981,2.5652,0.000,0.000,À vérifier,À vérifier,yes,,,1.000,0,,Matière grasse; amidon ferments lactiques. المادة الدسمة ٪ لا يحتوي علي الغلوتين; خمائر lait frais entier,21,21,three_pass,,24.80
+off,ar,ar/03.jpg,ok,0.2958,0.3542,0.125,0.500,No incompatible ingredient found in the reference,À vérifier,NO,,,1.000,0,,e224; e330; الاكسدة; الخريل; المايدة; حافظة; حبات; خل; ماء; مادة; ومضاد,17,17,three_pass,,17.85
+off,ar,ar/04.jpg,ok,4.3137,4.1618,0.429,0.273,À vérifier,À vérifier,yes,نكهة,,1.000,1,arome naturel; arômes naturels; natural flavors; vitamine arôme naturel. de production = date de péremption; نكهات طبيعية; 天然香料,30 jours. voir au dessus de l'emballage. Agiter avant de servir; محمض حامض الليمون,90,78,three_pass,,95.15
+off,en,en/01.jpg,ok,0.0019,0.0524,0.162,0.462,À vérifier,À vérifier,yes,E627; flavour; E626; E631; E630,,1.000,0,,,46,46,three_pass,,57.10
+off,en,en/02.jpg,ok,0.1389,0.1264,0.923,0.923,À vérifier,À vérifier,yes,flavour,,1.000,0,,Lb. bulgaricus; blueberries; live lactic cultures  SC. thermophilus,27,25,three_pass,,35.21
+off,en,en/03.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,natural flavors,natural flavors,n/a,n/a,,,17,12,three_pass,upscale_x2:discarded:33.86s,62.66
+off,en,en/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,natural flavor,natural flavor,n/a,n/a,,,44,37,three_pass,,49.83
+off,en,en/05.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,,,n/a,n/a,,,14,10,three_pass,,19.13
+off,en,en/06.jpg,ok,0.0095,0.0073,1.000,1.000,À vérifier,À vérifier,yes,soy sauce; E627; E631,,1.000,0,,DRIED MUSHROOM; KELP; MUSHROOM; NOODLES; SEASONING,86,77,three_pass,,131.61
+off,en,en/07.jpg,ok,0.0000,0.0046,1.000,1.000,No incompatible ingredient found in the reference,No incompatible ingredient found in the reference,yes,,,1.000,0,,,8,8,three_pass,,11.77
+off,fr,fr/01.jpg,ok,0.0013,0.0832,0.964,0.982,À vérifier,À vérifier,yes,glycérol; arômes; extrait de vanille; E471,,1.000,0,,,18,17,three_pass,,76.14
+off,fr,fr/02.jpg,ok,0.0000,0.0000,1.000,1.000,No incompatible ingredient found in the reference,No incompatible ingredient found in the reference,yes,,,1.000,0,,,5,5,three_pass,,12.18
+off,fr,fr/03.jpg,ok,0.9634,0.9397,0.625,0.625,À vérifier,À vérifier,yes,bouillon; arômes naturels,,1.000,1,"ham, bacon and cured pork products; jambon; jambon, bacon, lardons; moins d'eau qu'une tranche de jambon. Sans gluten. Une allergie; لحم مقدد / بيكون / هام; 火腿",Dignons; Valeurs Pour Par; au final; extrait de plantes; nous avons besoin beaucoup pour cuisiner les flashant corail afin obtenir une tranche delicieuse qui contient; plantes aromatiques RETROUVEZ DES céleri; une intolérance,79,74,three_pass,,115.45
+off,fr,fr/04.jpg,ok,0.7534,0.7695,0.000,0.000,Incompatible ingredient detected,À vérifier,NO,jambon; porc; arômes naturels; bouillon,jambon; porc; arômes naturels; bouillon,0.000,0,,a plants romaqu Su ChorureptoxydaAderqeiagroudre. poudre; ponqvàroan couener,13,10,three_pass+retry:tiled,tiled:used:23.49s,40.72
+off,zh,zh/01.jpg,ok,0.0000,0.0517,0.870,0.952,À vérifier,À vérifier,yes,脂肪酸山梨醇酐酯; 脂肪酸丙二醇酯; 乳清粉; 香料,,1.000,0,,,8,7,three_pass,,21.53
+off,zh,zh/02.jpg,ok,0.3898,0.3581,0.960,0.828,À vérifier,À vérifier,yes,单双甘油脂肪酸酯; 食品用香精; 硬脂酸; 甘油,,1.000,0,,GB; gb; sc12413052801630; 丙二醇; 二氢二钠; 产品标准; 复配; 山梨醇酐单; 生产日期; 生活; 脱氢乙酸钠; 见包装打码; 食品生产许可证编号,15,15,three_pass,,34.93
+off,zh,zh/03.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,5'-呈味核苷酸二钠; 食用香精香料,5'-呈味核苷酸二钠; 食用香精香料,n/a,n/a,,,41,37,three_pass,,61.68
+off,zh,zh/04.jpg,ok,0.7455,0.7284,0.235,0.800,À vérifier,À vérifier,yes,食用香精,食用香精,0.000,0,,gb19640; 脆片,47,39,three_pass,,49.08
+off,zh,zh/05.jpg,ok,0.4000,0.4048,0.667,1.000,À vérifier,À vérifier,yes,硬脂酰乳酸钠; 硬脂酰乳酸钙; 食用油脂制品,硬脂酰乳酸钠; 硬脂酰乳酸钙,0.333,0,,脱氢乙酸钠,24,24,three_pass,,32.84
+off,zh,zh/06.jpg,ok,0.0000,0.0160,1.000,1.000,À vérifier,À vérifier,yes,食用香精; 乳清粉,,1.000,0,,,29,24,three_pass,,39.74
+on,ar,ar/01.jpg,ok,0.0156,0.0359,0.789,0.882,À vérifier,À vérifier,yes,نكهات,,1.000,0,,حمض الستريكمادة حافة; قصب السكر,7,7,language_first:all,,13.50
+on,ar,ar/02.jpg,ok,2.6981,2.5652,0.000,0.000,À vérifier,À vérifier,yes,,,1.000,0,,Matière grasse; amidon ferments lactiques. المادة الدسمة ٪ لا يحتوي علي الغلوتين; خمائر lait frais entier,21,21,language_first:ar+fr,,12.57
+on,ar,ar/03.jpg,ok,0.2535,0.3229,0.125,0.500,No incompatible ingredient found in the reference,À vérifier,NO,,,1.000,0,,حبات الخريل المايدة ومضاد,17,17,language_first:ar+fr,,10.00
+on,ar,ar/04.jpg,ok,4.3137,4.1618,0.429,0.273,À vérifier,À vérifier,yes,نكهة,,1.000,1,arome naturel; arômes naturels; natural flavors; vitamine arôme naturel. de production = date de péremption; نكهات طبيعية; 天然香料,30 jours. voir au dessus de l'emballage. Agiter avant de servir; محمض حامض الليمون,90,78,language_first:ar+fr,,41.04
+on,en,en/01.jpg,ok,0.0019,0.0524,0.162,0.462,À vérifier,À vérifier,yes,E627; flavour; E626; E631; E630,,1.000,0,,,46,46,language_first:fr,,18.48
+on,en,en/02.jpg,ok,0.1389,0.1264,0.923,0.923,À vérifier,À vérifier,yes,flavour,,1.000,0,,Lb. bulgaricus; blueberries; live lactic cultures  SC. thermophilus,27,25,language_first:fr,,10.72
+on,en,en/03.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,natural flavors,natural flavors,n/a,n/a,,,17,12,language_first:fr,upscale_x2:discarded:8.58s,23.90
+on,en,en/04.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,natural flavor,natural flavor,n/a,n/a,,,44,37,language_first:fr,,14.18
+on,en,en/05.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,,,n/a,n/a,,,14,10,language_first:fr,,9.88
+on,en,en/06.jpg,ok,0.0095,0.0073,1.000,1.000,À vérifier,À vérifier,yes,soy sauce; E627; E631,,1.000,0,,DRIED MUSHROOM; KELP; MUSHROOM; NOODLES; SEASONING,86,76,language_first:fr,,39.71
+on,en,en/07.jpg,ok,0.0000,0.0046,1.000,1.000,No incompatible ingredient found in the reference,No incompatible ingredient found in the reference,yes,,,1.000,0,,,8,8,language_first:all,,10.23
+on,fr,fr/01.jpg,ok,0.0013,0.0832,0.964,0.982,À vérifier,À vérifier,yes,glycérol; arômes; extrait de vanille; E471,,1.000,0,,,18,17,language_first:fr,,32.55
+on,fr,fr/02.jpg,ok,0.0000,0.0000,1.000,1.000,No incompatible ingredient found in the reference,No incompatible ingredient found in the reference,yes,,,1.000,0,,,5,5,language_first:all,,10.93
+on,fr,fr/03.jpg,ok,0.9634,0.9397,0.625,0.625,À vérifier,À vérifier,yes,bouillon; arômes naturels,,1.000,1,"ham, bacon and cured pork products; jambon; jambon, bacon, lardons; moins d'eau qu'une tranche de jambon. Sans gluten. Une allergie; لحم مقدد / بيكون / هام; 火腿",Dignons; Valeurs Pour Par; au final; extrait de plantes; nous avons besoin beaucoup pour cuisiner les flashant corail afin obtenir une tranche delicieuse qui contient; plantes aromatiques RETROUVEZ DES céleri; une intolérance,79,74,language_first:fr,,39.74
+on,fr,fr/04.jpg,ok,0.7534,0.7695,0.000,0.000,Incompatible ingredient detected,À vérifier,NO,jambon; porc; arômes naturels; bouillon,jambon; porc; arômes naturels; bouillon,0.000,0,,a plants romaqu Su ChorureptoxydaAderqeiagroudre. poudre; ponqvàroan couener,13,10,language_first:all+retry:tiled,tiled:used:18.23s,33.52
+on,zh,zh/01.jpg,ok,0.0000,0.0517,0.870,0.952,À vérifier,À vérifier,yes,脂肪酸山梨醇酐酯; 脂肪酸丙二醇酯; 乳清粉; 香料,,1.000,0,,,8,7,language_first:all,,16.37
+on,zh,zh/02.jpg,ok,0.3898,0.3581,0.960,0.828,À vérifier,À vérifier,yes,单双甘油脂肪酸酯; 食品用香精; 硬脂酸; 甘油,,1.000,0,,GB; gb; sc12413052801630; 丙二醇; 二氢二钠; 产品标准; 复配; 山梨醇酐单; 生产日期; 生活; 脱氢乙酸钠; 见包装打码; 食品生产许可证编号,15,15,language_first:zh,,21.86
+on,zh,zh/03.jpg,no ingredients section found,n/a,n/a,n/a,n/a,À vérifier,À vérifier,yes,5'-呈味核苷酸二钠; 食用香精香料,5'-呈味核苷酸二钠; 食用香精香料,n/a,n/a,,,41,37,language_first:zh,,28.87
+on,zh,zh/04.jpg,ok,0.7455,0.7407,0.235,1.000,À vérifier,À vérifier,yes,食用香精,食用香精,0.000,0,,脆片,47,30,language_first:zh,,33.71
+on,zh,zh/05.jpg,ok,0.4000,0.4048,0.667,1.000,À vérifier,À vérifier,yes,硬脂酰乳酸钠; 硬脂酰乳酸钙; 食用油脂制品,硬脂酰乳酸钠; 硬脂酰乳酸钙,0.333,0,,脱氢乙酸钠,24,24,language_first:fr+zh,,29.56
+on,zh,zh/06.jpg,ok,0.0000,0.0160,1.000,1.000,À vérifier,À vérifier,yes,食用香精; 乳清粉,,1.000,0,,,29,23,language_first:zh,,30.65

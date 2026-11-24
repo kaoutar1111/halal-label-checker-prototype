@@ -1,0 +1,287 @@
+{
+  "results": [
+    {
+      "text": "Ingredients:",
+      "confidence": 0.9982118606567383,
+      "language": "en",
+      "bbox": [
+        39.0,
+        22.0,
+        345.0,
+        134.0
+      ]
+    },
+    {
+      "text": "Wate(e",
+      "confidence": 0.5855010747909546,
+      "language": "en",
+      "bbox": [
+        346.0,
+        22.0,
+        1322.0,
+        145.0
+      ]
+    },
+    {
+      "text": "Stabiliser",
+      "confidence": 0.8644814491271973,
+      "language": "en",
+      "bbox": [
+        921.0,
+        124.0,
+        1169.0,
+        224.0
+      ]
+    },
+    {
+      "text": "r (Methyl",
+      "confidence": 0.9812304377555847,
+      "language": "en",
+      "bbox": [
+        1131.0,
+        128.0,
+        1345.0,
+        220.0
+      ]
+    },
+    {
+      "text": "CeosS Ex",
+      "confidence": 0.5906432867050171,
+      "language": "en",
+      "bbox": [
+        42.0,
+        195.0,
+        1024.0,
+        304.0
+      ]
+    },
+    {
+      "text": "Colour (Beetroot",
+      "confidence": 0.9595372676849365,
+      "language": "en",
+      "bbox": [
+        969.0,
+        201.0,
+        1371.0,
+        313.0
+      ]
+    },
+    {
+      "text": "Red), Maltodextrin,",
+      "confidence": 0.9760855436325073,
+      "language": "en",
+      "bbox": [
+        43.0,
+        283.0,
+        523.0,
+        381.0
+      ]
+    },
+    {
+      "text": "Pomegranate Extract, Salt,",
+      "confidence": 0.9553054571151733,
+      "language": "en",
+      "bbox": [
+        505.0,
+        284.0,
+        1151.0,
+        388.0
+      ]
+    },
+    {
+      "text": "Potassium Chloride,",
+      "confidence": 0.9893835783004761,
+      "language": "en",
+      "bbox": [
+        41.0,
+        364.0,
+        548.0,
+        465.0
+      ]
+    },
+    {
+      "text": "Cocentrated Lemon Juiceaize",
+      "confidence": 0.7050006985664368,
+      "language": "en",
+      "bbox": [
+        495.0,
+        360.0,
+        1327.0,
+        465.0
+      ]
+    },
+    {
+      "text": "Vinegar,",
+      "confidence": 0.9851803779602051,
+      "language": "en",
+      "bbox": [
+        43.0,
+        449.0,
+        266.0,
+        558.0
+      ]
+    },
+    {
+      "text": "Carrot Powder, Emulsifier",
+      "confidence": 0.9436497688293457,
+      "language": "en",
+      "bbox": [
+        246.0,
+        446.0,
+        884.0,
+        557.0
+      ]
+    },
+    {
+      "text": "(Sunflower Lecithin).",
+      "confidence": 0.9736778736114502,
+      "language": "en",
+      "bbox": [
+        866.0,
+        447.0,
+        1354.0,
+        552.0
+      ]
+    },
+    {
+      "text": "*Peas are legumes.",
+      "confidence": 0.9675378799438477,
+      "language": "en",
+      "bbox": [
+        51.0,
+        544.0,
+        537.0,
+        654.0
+      ]
+    },
+    {
+      "text": "lmat",
+      "confidence": 0.6036236882209778,
+      "language": "en",
+      "bbox": [
+        42.0,
+        626.0,
+        1151.0,
+        739.0
+      ]
+    },
+    {
+      "text": "osi",
+      "confidence": 0.6294364929199219,
+      "language": "en",
+      "bbox": [
+        41.0,
+        788.0,
+        973.0,
+        912.0
+      ]
+    },
+    {
+      "text": "peanuts or tree nuts.",
+      "confidence": 0.9597585797309875,
+      "language": "en",
+      "bbox": [
+        46.0,
+        883.0,
+        541.0,
+        986.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        43.0,
+        982.0,
+        968.0,
+        1108.0
+      ],
+      "text": "a",
+      "confidence": 0.4944128692150116,
+      "reason": "low confidence 0.49 < 0.6"
+    },
+    {
+      "bbox": [
+        43.0,
+        704.0,
+        1262.0,
+        825.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        523.0,
+        609.0,
+        530.0,
+        622.0
+      ],
+      "text": "O",
+      "confidence": 0.15490445494651794,
+      "reason": "low confidence 0.15 < 0.6"
+    },
+    {
+      "bbox": [
+        524.0,
+        605.0,
+        536.0,
+        623.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        473.0,
+        534.0,
+        1252.0,
+        661.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        40.0,
+        106.0,
+        944.0,
+        224.0
+      ],
+      "text": "Coco,",
+      "confidence": 0.5654492974281311,
+      "reason": "low confidence 0.57 < 0.6"
+    },
+    {
+      "bbox": [
+        42.0,
+        195.0,
+        1024.0,
+        304.0
+      ],
+      "text": "CeosS Ex",
+      "confidence": 0.5906432867050171,
+      "reason": "low confidence 0.59 < 0.6"
+    },
+    {
+      "bbox": [
+        346.0,
+        22.0,
+        1322.0,
+        145.0
+      ],
+      "text": "Wate(e",
+      "confidence": 0.5855010747909546,
+      "reason": "low confidence 0.59 < 0.6"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "language_first:fr",
+    "blocks_detected": 23,
+    "blocks_kept": 17,
+    "retry": {}
+  }
+}

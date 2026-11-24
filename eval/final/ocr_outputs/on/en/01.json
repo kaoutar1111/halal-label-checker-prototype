@@ -1,0 +1,253 @@
+{
+  "results": [
+    {
+      "text": "per serving",
+      "confidence": 0.9997928738594055,
+      "language": "fr",
+      "bbox": [
+        200.0,
+        44.0,
+        243.0,
+        215.0
+      ]
+    },
+    {
+      "text": "Calcium",
+      "confidence": 0.9998325705528259,
+      "language": "fr",
+      "bbox": [
+        259.0,
+        427.0,
+        295.0,
+        525.0
+      ]
+    },
+    {
+      "text": "Vitamin D",
+      "confidence": 0.9988052845001221,
+      "language": "fr",
+      "bbox": [
+        314.0,
+        422.0,
+        346.0,
+        543.0
+      ]
+    },
+    {
+      "text": "0mg",
+      "confidence": 0.9701189398765564,
+      "language": "fr",
+      "bbox": [
+        263.0,
+        693.0,
+        306.0,
+        759.0
+      ]
+    },
+    {
+      "text": "omcy",
+      "confidence": 0.7048447132110596,
+      "language": "fr",
+      "bbox": [
+        316.0,
+        689.0,
+        346.0,
+        773.0
+      ]
+    },
+    {
+      "text": "0mg",
+      "confidence": 0.857782781124115,
+      "language": "fr",
+      "bbox": [
+        274.0,
+        892.0,
+        316.0,
+        960.0
+      ]
+    },
+    {
+      "text": "0%  Potassium",
+      "confidence": 0.9763544797897339,
+      "language": "fr",
+      "bbox": [
+        283.0,
+        1028.0,
+        331.0,
+        1233.0
+      ]
+    },
+    {
+      "text": "0mg",
+      "confidence": 0.8799981474876404,
+      "language": "fr",
+      "bbox": [
+        289.0,
+        1335.0,
+        331.0,
+        1394.0
+      ]
+    },
+    {
+      "text": "0% Omg",
+      "confidence": 0.9670348763465881,
+      "language": "fr",
+      "bbox": [
+        298.0,
+        1459.0,
+        336.0,
+        1544.0
+      ]
+    }
+  ],
+  "unreadable": [
+    {
+      "bbox": [
+        193.0,
+        921.0,
+        264.0,
+        1549.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        274.0,
+        838.0,
+        319.0,
+        891.0
+      ],
+      "text": "00%",
+      "confidence": 0.4251975119113922,
+      "reason": "low confidence 0.43 < 0.6"
+    },
+    {
+      "bbox": [
+        239.0,
+        178.0,
+        346.0,
+        416.0
+      ],
+      "text": "370",
+      "confidence": 0.9984374046325684,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        222.0,
+        14.0,
+        346.0,
+        234.0
+      ],
+      "text": "190",
+      "confidence": 0.9752206802368164,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        152.0,
+        6.0,
+        236.0,
+        928.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        194.0,
+        925.0,
+        247.0,
+        1200.0
+      ],
+      "text": "RIE",
+      "confidence": 0.5760834813117981,
+      "reason": "low confidence 0.58 < 0.6"
+    },
+    {
+      "bbox": [
+        277.0,
+        840.0,
+        315.0,
+        887.0
+      ],
+      "text": "00%",
+      "confidence": 0.5769405961036682,
+      "reason": "low confidence 0.58 < 0.6"
+    },
+    {
+      "bbox": [
+        241.0,
+        236.0,
+        346.0,
+        414.0
+      ],
+      "text": "370",
+      "confidence": 0.9998151659965515,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        203.0,
+        247.0,
+        288.0,
+        1200.0
+      ],
+      "text": "c",
+      "confidence": 0.43969815969467163,
+      "reason": "low confidence 0.44 < 0.6"
+    },
+    {
+      "bbox": [
+        221.0,
+        14.0,
+        346.0,
+        228.0
+      ],
+      "text": "10",
+      "confidence": 0.949915885925293,
+      "reason": "no readable word (OCR garbage)"
+    },
+    {
+      "bbox": [
+        152.0,
+        6.0,
+        236.0,
+        929.0
+      ],
+      "text": "",
+      "confidence": 0.0,
+      "reason": "empty recognition"
+    },
+    {
+      "bbox": [
+        242.0,
+        1060.0,
+        297.0,
+        1545.0
+      ],
+      "text": "c",
+      "confidence": 0.411182165145874,
+      "reason": "low confidence 0.41 < 0.6"
+    }
+  ],
+  "diagnostics": {
+    "strategy": "language_first:fr",
+    "blocks_detected": 14,
+    "blocks_kept": 9,
+    "retry": {
+      "mode": "tiled",
+      "used": false,
+      "seconds": 7.6,
+      "languages": [
+        "fr"
+      ],
+      "errors": [],
+      "results_before": 9,
+      "results_after": 16
+    }
+  }
+}

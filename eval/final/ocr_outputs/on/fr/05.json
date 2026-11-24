@@ -1,0 +1,99 @@
+{
+  "results": [
+    {
+      "text": "Sauce Tomate Cuisinée",
+      "confidence": 0.9973152875900269,
+      "language": "fr",
+      "bbox": [
+        40.0,
+        7.0,
+        627.0,
+        99.0
+      ]
+    },
+    {
+      "text": "Ingrédients: Tomates et concentré de tomates (174",
+      "confidence": 0.9276067018508911,
+      "language": "fr",
+      "bbox": [
+        32.0,
+        26.0,
+        1322.0,
+        197.0
+      ]
+    },
+    {
+      "text": "de tomates pour élaborer 100 g de sauce tomate",
+      "confidence": 0.9817625880241394,
+      "language": "fr",
+      "bbox": [
+        33.0,
+        120.0,
+        1200.0,
+        270.0
+      ]
+    },
+    {
+      "text": ", ue de tomes, su, amidon modié",
+      "confidence": 0.69594806432724,
+      "language": "fr",
+      "bbox": [
+        31.0,
+        184.0,
+        1292.0,
+        359.0
+      ]
+    },
+    {
+      "text": "de mais, sel, arme naturel d'oignon, ognons, al",
+      "confidence": 0.8019649982452393,
+      "language": "fr",
+      "bbox": [
+        34.0,
+        275.0,
+        1243.0,
+        430.0
+      ]
+    },
+    {
+      "text": "poivre blanc. Date de fabrication/ À consommer de",
+      "confidence": 0.9791610240936279,
+      "language": "fr",
+      "bbox": [
+        35.0,
+        356.0,
+        1252.0,
+        503.0
+      ]
+    },
+    {
+      "text": "prétérence avant in/° deLot vor sur le dessus e",
+      "confidence": 0.7217277884483337,
+      "language": "fr",
+      "bbox": [
+        35.0,
+        435.0,
+        1274.0,
+        587.0
+      ]
+    },
+    {
+      "text": "l'emballage",
+      "confidence": 0.99664705991745,
+      "language": "fr",
+      "bbox": [
+        41.0,
+        572.0,
+        331.0,
+        653.0
+      ]
+    }
+  ],
+  "unreadable": [],
+  "diagnostics": {
+    "strategy": "language_first:all",
+    "blocks_detected": 8,
+    "blocks_kept": 8,
+    "retry": {}
+  }
+}

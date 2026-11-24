@@ -1,0 +1,55 @@
+{
+  "results": [
+    {
+      "text": "年化似油",
+      "confidence": 0.7649403810501099,
+      "language": "zh",
+      "bbox": [
+        418.0,
+        0.0,
+        711.0,
+        47.0
+      ]
+    },
+    {
+      "text": "配料：植物油（含TBHQ）、花椒",
+      "confidence": 0.9975283145904541,
+      "language": "zh",
+      "bbox": [
+        0.0,
+        0.0,
+        1070.0,
+        164.0
+      ]
+    },
+    {
+      "text": "保质期：18个月",
+      "confidence": 0.9957773089408875,
+      "language": "zh",
+      "bbox": [
+        0.0,
+        81.0,
+        512.0,
+        186.0
+      ]
+    },
+    {
+      "text": "生产口期",
+      "confidence": 0.870872437953949,
+      "language": "zh",
+      "bbox": [
+        701.0,
+        141.0,
+        999.0,
+        184.0
+      ]
+    }
+  ],
+  "unreadable": [],
+  "diagnostics": {
+    "strategy": "language_first:all",
+    "blocks_detected": 4,
+    "blocks_kept": 4,
+    "retry": {}
+  }
+}

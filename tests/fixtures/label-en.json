@@ -1,0 +1,530 @@
+[
+  {
+    "text": "Sugar",
+    "confidence": 0.9999891519546509,
+    "language": "en",
+    "bbox": [
+      567.0,
+      306.0,
+      672.0,
+      358.0
+    ]
+  },
+  {
+    "text": "Sugar",
+    "confidence": 0.999965488910675,
+    "language": "en",
+    "bbox": [
+      35.0,
+      302.0,
+      144.0,
+      353.0
+    ]
+  },
+  {
+    "text": "Hydrolysed vegetable protein",
+    "confidence": 0.9999624490737915,
+    "language": "en",
+    "bbox": [
+      41.0,
+      736.0,
+      504.0,
+      783.0
+    ]
+  },
+  {
+    "text": "Edible Vegetable Fat",
+    "confidence": 0.9999578595161438,
+    "language": "en",
+    "bbox": [
+      42.0,
+      615.0,
+      362.0,
+      655.0
+    ]
+  },
+  {
+    "text": "Sugar",
+    "confidence": 0.999957263469696,
+    "language": "en",
+    "bbox": [
+      1057.0,
+      303.0,
+      1165.0,
+      358.0
+    ]
+  },
+  {
+    "text": "Spices",
+    "confidence": 0.9999546408653259,
+    "language": "en",
+    "bbox": [
+      564.0,
+      741.0,
+      680.0,
+      794.0
+    ]
+  },
+  {
+    "text": "Dehydrated Vegetables",
+    "confidence": 0.9999476075172424,
+    "language": "en",
+    "bbox": [
+      42.0,
+      673.0,
+      406.0,
+      719.0
+    ]
+  },
+  {
+    "text": "Spices",
+    "confidence": 0.9999436736106873,
+    "language": "en",
+    "bbox": [
+      1059.0,
+      810.0,
+      1174.0,
+      861.0
+    ]
+  },
+  {
+    "text": "Yeast Extract Powder",
+    "confidence": 0.9999421238899231,
+    "language": "en",
+    "bbox": [
+      1064.0,
+      939.0,
+      1402.0,
+      980.0
+    ]
+  },
+  {
+    "text": "Maize Starch",
+    "confidence": 0.9999391436576843,
+    "language": "en",
+    "bbox": [
+      1065.0,
+      434.0,
+      1270.0,
+      476.0
+    ]
+  },
+  {
+    "text": "INGREDIENTS",
+    "confidence": 0.9999307990074158,
+    "language": "en",
+    "bbox": [
+      43.0,
+      245.0,
+      262.0,
+      282.0
+    ]
+  },
+  {
+    "text": "Maltodextrin",
+    "confidence": 0.9999210834503174,
+    "language": "en",
+    "bbox": [
+      568.0,
+      565.0,
+      788.0,
+      613.0
+    ]
+  },
+  {
+    "text": "Gum Powder",
+    "confidence": 0.9999144673347473,
+    "language": "en",
+    "bbox": [
+      1062.0,
+      747.0,
+      1279.0,
+      795.0
+    ]
+  },
+  {
+    "text": "INGREDIENTS",
+    "confidence": 0.9999110698699951,
+    "language": "en",
+    "bbox": [
+      1064.0,
+      244.0,
+      1285.0,
+      284.0
+    ]
+  },
+  {
+    "text": "Salt",
+    "confidence": 0.9999079704284668,
+    "language": "en",
+    "bbox": [
+      34.0,
+      364.0,
+      115.0,
+      414.0
+    ]
+  },
+  {
+    "text": "Tomato Powder (20%)",
+    "confidence": 0.9999054074287415,
+    "language": "en",
+    "bbox": [
+      1064.0,
+      497.0,
+      1407.0,
+      542.0
+    ]
+  },
+  {
+    "text": "Dehydrated Vegetables",
+    "confidence": 0.9998860955238342,
+    "language": "en",
+    "bbox": [
+      1064.0,
+      874.0,
+      1428.0,
+      921.0
+    ]
+  },
+  {
+    "text": "INGREDIENTS",
+    "confidence": 0.999884843826294,
+    "language": "en",
+    "bbox": [
+      571.0,
+      246.0,
+      793.0,
+      286.0
+    ]
+  },
+  {
+    "text": "Salt",
+    "confidence": 0.9998502731323242,
+    "language": "en",
+    "bbox": [
+      563.0,
+      367.0,
+      646.0,
+      423.0
+    ]
+  },
+  {
+    "text": "Maltodextrin",
+    "confidence": 0.9998385310173035,
+    "language": "en",
+    "bbox": [
+      1063.0,
+      623.0,
+      1279.0,
+      667.0
+    ]
+  },
+  {
+    "text": "Skim Milk Powder",
+    "confidence": 0.9998008608818054,
+    "language": "en",
+    "bbox": [
+      1062.0,
+      557.0,
+      1348.0,
+      603.0
+    ]
+  },
+  {
+    "text": "Refined Wheat Flour",
+    "confidence": 0.9993918538093567,
+    "language": "en",
+    "bbox": [
+      41.0,
+      552.0,
+      367.0,
+      594.0
+    ]
+  },
+  {
+    "text": "Dehydrated Vegetables",
+    "confidence": 0.9993610382080078,
+    "language": "en",
+    "bbox": [
+      571.0,
+      808.0,
+      936.0,
+      855.0
+    ]
+  },
+  {
+    "text": "E631)",
+    "confidence": 0.9983898997306824,
+    "language": "en",
+    "bbox": [
+      566.0,
+      673.0,
+      671.0,
+      726.0
+    ]
+  },
+  {
+    "text": "Tomato Powder (15%)",
+    "confidence": 0.998360276222229,
+    "language": "en",
+    "bbox": [
+      570.0,
+      504.0,
+      925.0,
+      548.0
+    ]
+  },
+  {
+    "text": "Spices & Condiments",
+    "confidence": 0.9979993104934692,
+    "language": "en",
+    "bbox": [
+      39.0,
+      793.0,
+      375.0,
+      845.0
+    ]
+  },
+  {
+    "text": "Flavour Enhancer (E627 ,",
+    "confidence": 0.9978850483894348,
+    "language": "en",
+    "bbox": [
+      43.0,
+      984.0,
+      433.0,
+      1027.0
+    ]
+  },
+  {
+    "text": "Flavour Enhancer (E626, E630)",
+    "confidence": 0.9974952936172485,
+    "language": "en",
+    "bbox": [
+      1064.0,
+      999.0,
+      1547.0,
+      1046.0
+    ]
+  },
+  {
+    "text": "Tomato Paste Solids (15%)",
+    "confidence": 0.9972983598709106,
+    "language": "en",
+    "bbox": [
+      40.0,
+      490.0,
+      460.0,
+      534.0
+    ]
+  },
+  {
+    "text": "Knorr",
+    "confidence": 0.9972620010375977,
+    "language": "en",
+    "bbox": [
+      120.0,
+      76.0,
+      345.0,
+      188.0
+    ]
+  },
+  {
+    "text": "E631)",
+    "confidence": 0.9964231252670288,
+    "language": "en",
+    "bbox": [
+      39.0,
+      1025.0,
+      142.0,
+      1077.0
+    ]
+  },
+  {
+    "text": "Anticaking Agent (E551)",
+    "confidence": 0.9955795407295227,
+    "language": "en",
+    "bbox": [
+      39.0,
+      857.0,
+      423.0,
+      908.0
+    ]
+  },
+  {
+    "text": "Maize Starch",
+    "confidence": 0.9953917860984802,
+    "language": "en",
+    "bbox": [
+      40.0,
+      427.0,
+      248.0,
+      474.0
+    ]
+  },
+  {
+    "text": "Acidity Regulator (E296)",
+    "confidence": 0.9949784874916077,
+    "language": "en",
+    "bbox": [
+      1061.0,
+      1064.0,
+      1448.0,
+      1110.0
+    ]
+  },
+  {
+    "text": "Thickener (E415)",
+    "confidence": 0.9943086504936218,
+    "language": "en",
+    "bbox": [
+      39.0,
+      919.0,
+      311.0,
+      968.0
+    ]
+  },
+  {
+    "text": "lodised Salt",
+    "confidence": 0.9938668608665466,
+    "language": "en",
+    "bbox": [
+      1063.0,
+      369.0,
+      1253.0,
+      414.0
+    ]
+  },
+  {
+    "text": "Anticaking Agent (E551)",
+    "confidence": 0.9928387403488159,
+    "language": "en",
+    "bbox": [
+      570.0,
+      938.0,
+      951.0,
+      986.0
+    ]
+  },
+  {
+    "text": "Kwality",
+    "confidence": 0.9910351634025574,
+    "language": "en",
+    "bbox": [
+      1115.0,
+      11.0,
+      1440.0,
+      157.0
+    ]
+  },
+  {
+    "text": "Flavour Enhancers (E627,",
+    "confidence": 0.9900047183036804,
+    "language": "en",
+    "bbox": [
+      570.0,
+      631.0,
+      968.0,
+      677.0
+    ]
+  },
+  {
+    "text": "Acidity Regulator (E330)",
+    "confidence": 0.9847447276115417,
+    "language": "en",
+    "bbox": [
+      40.0,
+      1089.0,
+      426.0,
+      1136.0
+    ]
+  },
+  {
+    "text": "Acidfying Agent (E330)",
+    "confidence": 0.9828803539276123,
+    "language": "en",
+    "bbox": [
+      571.0,
+      875.0,
+      931.0,
+      920.0
+    ]
+  },
+  {
+    "text": "Edible Vegetable Fat",
+    "confidence": 0.9789543151855469,
+    "language": "en",
+    "bbox": [
+      1064.0,
+      686.0,
+      1384.0,
+      729.0
+    ]
+  },
+  {
+    "text": "Sunflower Oil",
+    "confidence": 0.9778004288673401,
+    "language": "en",
+    "bbox": [
+      568.0,
+      1001.0,
+      788.0,
+      1048.0
+    ]
+  },
+  {
+    "text": "Goodness Inside",
+    "confidence": 0.9723156690597534,
+    "language": "en",
+    "bbox": [
+      1275.0,
+      157.0,
+      1489.0,
+      212.0
+    ]
+  },
+  {
+    "text": "Ching's",
+    "confidence": 0.9624388813972473,
+    "language": "en",
+    "bbox": [
+      720.0,
+      120.0,
+      897.0,
+      190.0
+    ]
+  },
+  {
+    "text": "Corn Starch",
+    "confidence": 0.9237795472145081,
+    "language": "en",
+    "bbox": [
+      569.0,
+      438.0,
+      758.0,
+      484.0
+    ]
+  },
+  {
+    "text": "A",
+    "confidence": 0.8202337622642517,
+    "language": "en",
+    "bbox": [
+      807.0,
+      25.0,
+      827.0,
+      51.0
+    ]
+  },
+  {
+    "text": "@",
+    "confidence": 0.6419119238853455,
+    "language": "en",
+    "bbox": [
+      1484.0,
+      0.0,
+      1505.0,
+      17.0
+    ]
+  }
+]
